@@ -23,7 +23,7 @@ const config = {
   organizationName: 'VATSIM Saudi Arabia', // Usually your GitHub org/user name.
   projectName: 'vatsimsa-sop', // Usually your repo name.
 
-  onBrokenLinks: "ignore",
+  onBrokenLinks: 'ignore',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -92,7 +92,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-               
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
             ],
           },
@@ -117,7 +118,8 @@ const config = {
             title: 'More',
             items: [
               {
-                
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
                 label: 'GitHub',
