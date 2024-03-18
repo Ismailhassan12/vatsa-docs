@@ -23,7 +23,7 @@ const config = {
   organizationName: 'VATSIM Saudi Arabia', // Usually your GitHub org/user name.
   projectName: 'vatsimsa-sop', // Usually your repo name.
 
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: "ignore",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
