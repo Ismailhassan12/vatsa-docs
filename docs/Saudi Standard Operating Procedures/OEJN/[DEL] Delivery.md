@@ -1,4 +1,4 @@
 ---
 slug: del-approach
-sidebar_position: 1
+sidebar_position: 2
 ---
