@@ -15,45 +15,47 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 
 | **Airport ICAO Code** |           Airport Name          |  Airport Coordinates  |  Airport Runways  | Airport Elevation |
 |:---------------------:|:-------------------------------:|:---------------------:|:-----------------:|:-----------------:|
-|          OEDF         | King Fahd International Airport | 26.4712°N, 49.7979°E | 34L/16R & 34R/16L |    72 feat AMSL   |
+|          OEJN         | King Abdulaziz International Airport | 21.6794°N, 39.1566°E | 34L/16R, 34C/16C, 34R/16L |    49 feat AMSL   |
 
 ## Runways
 
-**King Fahd International Airport (OEDF)** has **2** runways, **34L/16R and 34R/16L**. 
-
-**Runway 34R/16L** is commonly used by both commercial and private aviation. Specifically, it is known to be utilized by private aviation operators and **Saudi Aramco**. The availability of this runway caters to the needs of private aircraft and supports the operations of Aramco, contributing to the overall aviation activities at OEDF.
+**King Abdulaziz International Airport (OEJN)** has **3** runways, **34L/16R, 34C/16C and 34R/16L**. 
 
 ::::info **Fun Fact**
-**Saudi Aramco** is the state-owned oil company of Saudi Arabia, which conducts its main operations in Dammam, strategically situated near Abqaiq, home to the country's largest oil reserve.
+**King Abdulaziz International Airport** is home to the world's tallest air traffic control tower, standing at an impressive height of 136 meters (446 feet)..
 ::::
 
 ### Runway Characteristics
 
 |  Runway | Dimensions (m) | True Bearing | Elevation |  Slope  |
 |:-------:|:--------------:|:------------:|:---------:|:-------:|
-| **34L** |    4000 x 60   |    344.46    |     59    | +0.007% |
-| **16R** |    4000 x 60   |    164.45    |     51    | +0.127% |
-| **34R** |    4000 x 60   |    344.47    |     75    | +0.041% |
-| **16L** |    4000 x 60   |    164.46    |     62    | +0.212% |
+| **34L** |    3800 x 60   |    340.00    |     14    | 0.0% |
+| **16R** |    3800 x 60   |    160.00    |     14    | 0.0% |
+| **34C** |    4000 x 60   |    340.00    |     28    | -0.06%  |
+| **16C** |    4000 x 60   |    160.00    |     28    | +0.33%  |
+| **34R** |    4000 x 60   |    340.00    |     49    | -0.14%  |
+| **16L** |    4000 x 60   |    160.00    |     30    | +0.14%  |
 
 ### Declared Distances
 
 | **Runway** | **TORA (M)** | **TODA (M)** | **ASDA (M)** | **LDA (M)** |
 |:----------:|:------------:|:------------:|:------------:|:-----------:|
-|   **34L**  |     4000     |     4000     |     4120     |     4000    |
-|   **16R**  |     4000     |     4000     |     4120     |     4000    |
-|   **34R**  |     4000     |     4000     |     4120     |     4000    |
-|   **16L**  |     4000     |     4000     |     4120     |     4000    |
+|   **34L**  |     3800     |     3800     |     3800     |     3800    |
+|   **16R**  |     3800     |     3800     |     3800     |     3800    |
+|   **34C**  |     4000     |     4000     |     4000     |     4000    |
+|   **16C**  |     4000     |     4000     |     4000     |     4000    |
+|   **34R**  |     4000     |     4000     |     4000     |     4000    |
+|   **16L**  |     4000     |     4000     |     4000     |     4000    |
 
 ## Air Traffic Services
 
-**King Fahd International Airport (OEDF)** is a fully controlled airport.
+**King Abdulaziz International Airport (OEJN)** is a fully controlled airport.
 
 ### Airspaces
 
 |       **Airspace Type**       |    **Airspace**   | **Class** | **Vertical Limits** |          **Controller(s)**          |
 |:-----------------------------:|:-----------------:|:------------------:|:-------------------:|:--------------------------------:|
-|        **Control Zone**       |     Dammam CTR    |     C    |     SFC - 2500ft    |      OEDF_1_TWR, OEDF_2_TWR      |
+|        **Control Zone**       |     Jeddah CTR    |     D    |     SFC - 2500ft    |      OEJN_1_TWR, OEJN_2_TWR      |
 | **Terminal Maneuvering Area** | Dammam TMA Part 1 |     C    |    700ft - FL155    | OEDF_L_APP, OEDF_APP, OEDF_U_APP |
 | **Terminal Maneuvering Area** | Dammam TMA Part 2 |     C    |    2500ft - FL155   | OEDF_L_APP, OEDF_APP, OEDF_U_APP |
 |        **Control Area**       |     Dammam CTA    |      A     |    FL155 - FL245    |       OEDF_U_APP, OEDF_APP       |
@@ -62,14 +64,16 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 
 |  **Radio Callsign** | **Logon Callsign** | **Abbreviation** | **Frequency (MHz)** |
 |:-------------------:|:------------------:|:----------------:|:-------------------:|
-|   **Dammam ATIS**   |      OEDF_ATIS     |       ATIS       |       128.050       |
-|  **Dammam Ground**  |     OEDF_1_GND     |       GMC 1      |       121.750       |
-|  **Dammam Ground**  |     OEDF_2_GND     |       GMC 2      |       121.850       |
-|   **Dammam Tower**  |     OEDF_1_TWR     |       AIR 1      |       124.350       |
-|   **Dammam Tower**  |     OEDF_2_TWR     |       AIR 2      |       118.200       |
-| **Dammam Approach** |      OEDF_APP      |       APP 1      |       126.300       |
-| **Dammam Approach** |     OEDF_L_APP     |       APP L      |       126.100       |
+|   **Jeddah ATIS**   |      OEJN_ATIS     |       ATIS       |       126.200       |
+| **Jeddah Delivery** |      OEJN_DEL      |       GMP        |       121.800       |
+|  **Jeddah Ground**  |     OEJN_1_GND     |       GMC 1      |       121.600       |
+|  **Jeddah Ground**  |     OEJN_2_GND     |       GMC 2      |       121.900       |
+|  **Jeddah Ground**  |     OEJN_3_GND     |       GMC 3      |       121.700       |
+|   **Jeddah Tower**  |     OEJN_1_TWR     |       AIR 1      |       118.200       |
+|   **Jeddah Tower**  |     OEJN_2_TWR     |       AIR 2      |       118.500       |
+| **Jeddah Approach** |      OEJN_APP      |       APP 1      |       124.000       |
+| **Jeddah Final Approach** |     OEJN_F_APP     |       FIN      |       123.800       |
+| **Jeddah Control**  |      OEJD_1_CTR      |       CTR 1      |       126.500       |
+| **Jeddah Control**  |      OEJD_2_CTR    |       CTR 2      |       133.900       |
 
-::::caution **Due Note**
-King Fahd International Airport **does not** have a GMP Position. Clearances are issued by GMC 1.
 ::::
