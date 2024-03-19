@@ -3,38 +3,36 @@ sidebar_position: 1
 ---
 # General Information
 
-**King Abdulaziz International Airport (OEJN)**  is a significant airport serving **Jeddah and Mecca in Saudi Arabia**. It's situated 19 kilometers north of Jeddah and covers an extensive area of 105 square kilometers. Opened in 1981, it replaced the former Kandara Airport and is named after the founder of Saudi Arabia, King Abdulaziz. 
+**Prince Mohammad Bin Adbulaziz International Airport (OEMA)**  situated in **Medina, Saudi Arabia**, commenced operations in 1950 and has since seen expansions to accommodate its growing importance. While primarily serving domestic flights, it also offers international services to nearby destinations like Cairo, Dubai, Istanbul, and Kuwait City. During the Hajj and Umrah seasons, the airport becomes pivotal, managing charter international flights to support pilgrims.
 
-The airport is the busiest in the kingdom and the third-largest by land area and features a royal terminal and three operational passenger terminals, including a dedicated Hajj Terminal for the Islamic Hajj pilgrimage season. 
 
 ::::info Fun Fact
-King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag carrier, and is also used as a base for national low-cost carriers Flynas and Flyadeal.
+Pilgrims embarking on Hajj or Umrah can enter Saudi Arabia through either Medina Airport or Jeddah Airport.
 ::::
 
 ## Aerodrome Details
 
 | **Airport ICAO Code** |           Airport Name          |  Airport Coordinates  |  Airport Runways  | Airport Elevation |
 |:---------------------:|:-------------------------------:|:---------------------:|:-----------------:|:-----------------:|
-|          OEJN         | King Abdulaziz International Airport | 21.6794°N, 39.1566°E | 34L/16R, 34C/16C, 34R/16L |    49 feat AMSL   |
+|          OEMA         | Prince Mohammad Bin Abdulaziz International Airport | 24.5533°N, 39.705°E | 17,35 & 18,36 |    2134 feat AMSL   |
 
 ## Runways
 
-**King Abdulaziz International Airport (OEJN)** has **3** runways, **34L/16R, 34C/16C and 34R/16L**. 
+**Prince Mohammad Bin Adbulaziz International Airport (OEMA)** has **2** runways, **17,35 & 18,36**. 
 
 ::::info **Fun Fact**
-**King Abdulaziz International Airport** is home to the world's tallest air traffic control tower, standing at an impressive height of 136 meters (446 feet)..
+**Prince Mohammad Bin Adbulaziz International Airport** Madinah Airport's recent terminal expansion has earned it the prestigious Leadership in Energy and Environmental Design (LEED) Gold certification from the U.S. Green Building Council (USGBC). By achieving this certification, Madinah Airport has become the first commercial airport terminal in the MENA region to receive LEED Gold status. 
 ::::
 
 ### Runway Characteristics
 
 |  Runway | Dimensions (m) | True Bearing | Elevation |  Slope  |
 |:-------:|:--------------:|:------------:|:---------:|:-------:|
-| **34L** |    3800 x 60   |    340.00    |     14    | 0.0% |
-| **16R** |    3800 x 60   |    160.00    |     14    | 0.0% |
-| **34C** |    4000 x 60   |    340.00    |     28    | -0.06%  |
-| **16C** |    4000 x 60   |    160.00    |     28    | +0.33%  |
-| **34R** |    4000 x 60   |    340.00    |     49    | -0.14%  |
-| **16L** |    4000 x 60   |    160.00    |     30    | +0.14%  |
+| **17**  |    4335 x 60   |    165.00    |     2134    | -0.78%  |
+| **35**  |    4335 x 60   |    345.00    |     2063    |  0.15%  |
+| **18**  |    3050 x 60   |    180.00    |     2114  | -0.84%  |
+| **36**  |    3050 x 45   |    160.00    |     2059    | +0.33%  |
+
 
 ### Declared Distances
 
