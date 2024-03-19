@@ -47,10 +47,10 @@ sidebar_position: 1
 
 |       **Airspace Type**       |    **Airspace**   | **Class** | **Vertical Limits** |          **Controller(s)**          |
 |:-----------------------------:|:-----------------:|:------------------:|:-------------------:|:--------------------------------:|
-|        **Control Zone**       |     Dammam CTR    |     C    |     SFC - 2500ft    |      OEDF_1_TWR, OEDF_2_TWR      |
-| **Terminal Maneuvering Area** | Dammam TMA Part 1 |     C    |    700ft - FL155    | OEDF_L_APP, OEDF_APP, OEDF_U_APP |
-| **Terminal Maneuvering Area** | Dammam TMA Part 2 |     C    |    2500ft - FL155   | OEDF_L_APP, OEDF_APP, OEDF_U_APP |
-|        **Control Area**       |     Dammam CTA    |      A     |    FL155 - FL245    |       OEDF_U_APP, OEDF_APP       |
+|        **Control Zone**       |     Dammam CTR    |     C    |     SFC - 2500ft    |     AIR 1, AIR 2     |
+| **Terminal Maneuvering Area** | Dammam TMA Part 1 |     C    |    700ft - FL155    |  APP 1, APP L |
+| **Terminal Maneuvering Area** | Dammam TMA Part 2 |     C    |    2500ft - FL155   | APP 1, APP L |
+|        **Control Area**       |     Dammam CTA    |      A     |    FL155 - FL245    |  APP 1       |
 
 ## ATS Callsigns
 
