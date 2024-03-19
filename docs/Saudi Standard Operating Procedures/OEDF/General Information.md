@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## Aerodrome Details
 
-| **Airport ICAO Code** |           Airport Name          |  Airport Coordinates  |  Airport Runways  | Airport Elevation |
+| **Airport ICAO** |           Airport Name          |  Airport Coordinates  |  Airport Runways  | Airport Elevation |
 |:---------------------:|:-------------------------------:|:---------------------:|:-----------------:|:-----------------:|
 |          OEDF         | King Fahd International Airport | 26.4712°N, 49.7979°E | 34L/16R & 34R/16L |    72 feat AMSL   |
 

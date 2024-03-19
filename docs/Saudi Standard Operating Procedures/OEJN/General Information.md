@@ -13,7 +13,7 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 
 ## Aerodrome Details
 
-| **Airport ICAO Code** |           Airport Name          |  Airport Coordinates  |  Airport Runways  | Airport Elevation |
+| **Airport ICAO** |           Airport Name          |  Airport Coordinates  |  Airport Runways  | Airport Elevation |
 |:---------------------:|:-------------------------------:|:---------------------:|:-----------------:|:-----------------:|
 |          OEJN         | King Abdulaziz International Airport | 21.6794°N, 39.1566°E | 34L/16R, 34C/16C, 34R/16L |    49 feat AMSL   |
 
@@ -22,7 +22,7 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 **King Abdulaziz International Airport (OEJN)** has **3** runways, **34L/16R, 34C/16C and 34R/16L**. 
 
 ::::info **Fun Fact**
-**King Abdulaziz International Airport** is home to the world's tallest air traffic control tower, standing at an impressive height of 136 meters (446 feet)..
+**King Abdulaziz International Airport** is home to the world's tallest air traffic control tower, standing at an impressive height of 136 meters (446 feet).
 ::::
 
 ### Runway Characteristics
@@ -53,12 +53,13 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 
 ### Airspaces
 
-|       **Airspace Type**       |    **Airspace**   | **Class** | **Vertical Limits** |          **Controller(s)**          |
-|:-----------------------------:|:-----------------:|:------------------:|:-------------------:|:--------------------------------:|
-|        **Control Zone**       |     Jeddah CTR    |     D    |     SFC - 2500ft    |      OEJN_1_TWR, OEJN_2_TWR      |
-| **Terminal Maneuvering Area** | Dammam TMA Part 1 |     C    |    700ft - FL155    | OEDF_L_APP, OEDF_APP, OEDF_U_APP |
-| **Terminal Maneuvering Area** | Dammam TMA Part 2 |     C    |    2500ft - FL155   | OEDF_L_APP, OEDF_APP, OEDF_U_APP |
-|        **Control Area**       |     Dammam CTA    |      A     |    FL155 - FL245    |       OEDF_U_APP, OEDF_APP       |
+|         Airspace Type         |      Airspace     | Class | Vertical Limits | Controller             |
+|:-----------------------------:|:-----------------:|:-----:|:---------------:|:------------------------:|
+|        **Control Zone**       |     Jeddah CTR    |   D   |   SFC - 2500ft  | AIR 1, AIR 2  |
+| **Terminal Maneuvering Area** | Jeddah TMA Part 1 |   C   |  1500ft - FL195 | APP 1, FIN   |
+| **Terminal Maneuvering Area** | Jeddah TMA Part 2 |   C   |  2500ft - FL195 | APP 1               |
+|        **Control Area**       |  Jeddah CTA East  |   A   |  FL150 - FL600  | CTR 1          |
+|        **Control Area**       |  Jeddah CTA West  |   A   |  FL150 - FL600  | CTR 2             |
 
 ## ATS Callsigns
 
@@ -73,7 +74,5 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 |   **Jeddah Tower**  |     OEJN_2_TWR     |       AIR 2      |       118.500       |
 | **Jeddah Approach** |      OEJN_APP      |       APP 1      |       124.000       |
 | **Jeddah Final Approach** |     OEJN_F_APP     |       FIN      |       123.800       |
-| **Jeddah Control**  |      OEJD_1_CTR      |       CTR 1      |       126.500       |
-| **Jeddah Control**  |      OEJD_2_CTR    |       CTR 2      |       133.900       |
-
-::::
+| **Jeddah Terminal Control**  |      OEJN_1_CTR      |       CTR 1      |       125.450       |
+| **Jeddah Terminal Control**  |      OEJN_2_CTR    |       CTR 2      |       119.100       |
