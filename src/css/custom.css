@@ -28,3 +28,6 @@
     --ifm-color-primary-lightest: #1dd460;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+.center-align {
+    text-align: center;
+  }
