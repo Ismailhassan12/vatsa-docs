@@ -1,7 +1,7 @@
 ---
 slug: del-approach
 sidebar_position: 1
-toc_min_heading_level: 1
+toc_min_heading_level: 2
 toc_max_heading_level: 6
 title: "[DEL] Delivery"
 ---
@@ -115,14 +115,52 @@ Runways 16L and 16R do not have radar departures. If needed, Omni-Directional De
 
 ::::
 #### 2.2.2.3 Omni-Directional Departures
-Omni-Directional Departures can be issued in exceptional circumstances for 16 Operations in coordination with AIR and APP.
+
+In exceptional circumstances for 16 operations, omnidirectional departures can be issued in coordination with AIR & APP.
+
 
 An Omnidirectional departure clearance shall contain the following information:
 
 - Callsign;
 - Destination (Optional);
-- Omnidirectional departure;
-- Departure Runway
+- Expect Radar vectors;
+- Departure Runway;
 - Initial climb;
-- Initial heading (which may be changed by AIR);
 - Assigned SSR code
+
+> **Pilot:** *SVA123, Stand C3, A320, requesting IFR clearance to Jeddah*
+
+> **GMP:** *SVA123, Cleared Jeddah as filed, Expect Radar Vectors, Runway 34L, Initial Climb 4000ft, SQWK XXXX*
+
+<div className="center-align">
+  <p>***--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------***</p>
+</div>
+
+> **GMP:** *SVA123, Readback Correct, Information A, Report ready for push and start*
+
+::::info Do note
+
+The pilot can receive an initial heading as part of the departure clearance, but it should only be given if instructed by AIR & APP.
+
+
+**Phraseology:**
+
+> **GMP:** *SVA123, Cleared Jeddah as filed, After departure, Maintain Runway Heading, Runway 34L, Initial Climb 4000ft, SQWK XXXX*
+
+***OR***
+
+> **GMP:** *SVA123, Cleared Jeddah as filed, After departure, Turn left heading 310, Runway 34L, Initial Climb 4000ft, SQWK XXXX*
+
+::::
+
+### 2.3 Rerouting Aircraft
+The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP (Ground Movement Planner). The GMP should utilize the RouteChecker tool for this purpose.
+
+If a traffic files an invalid route, they shall be informed by GMP of such as soon as they have connected to the network by private message or on frequency.
+
+#### 2.3.1  Rerouting by voice
+
+GMP may use the following phrasesolgy to reroute traffic.
+
+
+
