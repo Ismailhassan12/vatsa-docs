@@ -2,13 +2,13 @@
 slug: del-approach
 sidebar_position: 1
 toc_min_heading_level: 2
-toc_max_heading_level: 6
+toc_max_heading_level: 8
 title: "[DEL] Delivery"
 ---
 
 # Dammam Delivery [OEDF_1_GND]
 
-This section details all the necesary Standard Operating Procedures for DEL - Delivery in **King Fahd International Airport (OEDF)**
+This section details all the necesary Standard Operating Procedures for Delivery Operations in **King Fahd International Airport (OEDF)**
 
 
 ::::caution Do Note
@@ -23,13 +23,13 @@ In this section, GMP (Ground Movement Planner) will be used to refer to Dammam G
 
 ::::
 
----
-
 # 1.    General Provisions
 
 **Dammam Ground (OEJN_1_GND)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
 
 Additionally, the GMP plays a vital role in minimizing potential delays and congestion on the taxiways for outbound flights. During periods characterized by increased departure activities, the GMP implements proactive measures to optimize the flow of traffic. This includes holding aircraft at their stands.
+
+---
 
 # 2.    Departure Clearance
 ## 2.1  General
@@ -41,7 +41,7 @@ following information on first contact:
 - Parking stand;
 - Destination;
 - Any other special requests
-
+---
 ## 2.2 IFR Clearances
 
 An IFR clearance shall contain:
@@ -79,18 +79,14 @@ Dammam Airport predominantly utilizes **RNAV standard instrument departures (SID
 
 GMP must always issue RNAV SIDs unless needed otherwise.
 
-|Exit Point|34L|34R|16L|16R|
-|:--:|:--:|:--:|:--:|:--:|
-|**METLA**|1E|1F|1H|1G|
-|**ROTEL**|1E|1F|2H|2G|
-|**LADNA**|1E|1F|1H|1G|
-|**RYDAN**|2E|2F|2H|2G|
-|**MIBRA**|2E|2F|2H|2G|
-|**TAYMA**|2E|2F|2H|2G|
-|**EMUSA**|2E|2F|2H|2G|
-|**PUSRA**|2E|2F|2H|2G|
+| **Exit Points** | **METLA** | **ROTEL** | **LADNA** | **RYDAN** | **MIBRA** | **TAYMA** | **EMUSA** | **PUSRA** |
+|:---------------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|     **34L**     |     1E    |     1E    |     1E    |     2E    |     2E    |     2E    |     2E    |     2E    |
+|     **34R**     |     1F    |     1F    |     1F    |     2F    |     2F    |     2F    |     2F    |     2F    |
+|     **16L**     |     1H    |     2H    |     1H    |     2H    |     2H    |     2H    |     2H    |     2H    |
+|     **16R**     |     1G    |     2G    |     1G    |     2G    |     2G    |     2G    |     2G    |     2G    |
 
-‎ ‎‎ ‎ ‎ ‎ ‎ ‎  *Table 1.1 - RNAV SIDs of Dammam*
+‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  *Table 1.1 - RNAV SIDs of Dammam*
 ::::info Initial Climb
 
 Regardless of the specific SID chosen, all departures require an initial climb to an altitude of **4000 feet**.
@@ -101,6 +97,18 @@ Regardless of the specific SID chosen, all departures require an initial climb t
 King Fahd International Airport (OEDF) offers two radar departures, namely **DAMMAM1A** and **DAMMAM1B**, specifically designed for aircraft departing from **Runway 34L and 34R**, respectively. These departure procedures involve deviating the aircraft by *15* degrees from the runway heading until further instructions are provided by APP 1.
 
 It is important to note that these radar departures should only be utilized when necessary, and their usage requires coordination with APP 1 and/or APP L.
+
+***Coordination Example for Radar Departures:***
+
+SVA123 is requesting DAMMAM1A due to outdated AIRAC. GMP must call APP via VCCS to coordinate
+
+> **GMP:** *Calls APP via VCCS*
+
+> **APP:**  *Accepts call from GMP*
+
+> **GMP -> APP:** *APP, SVA123 is an A320 requesting approval for DAMMAM1A.*
+
+> **APP -> GMP:** *GMP, DAMMAM1A approved.* 
 
 ::::tip
 When giving Radar Departures, type **"RDEP"** in the scratch pad so upper controllers don't forget and you too!
@@ -153,14 +161,110 @@ The pilot can receive an initial heading as part of the departure clearance, but
 
 ::::
 
-### 2.3 Rerouting Aircraft
-The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP (Ground Movement Planner). The GMP should utilize the RouteChecker tool for this purpose.
+***Coordination Example for Omni-Directional Departures:***
+
+FAD5MA is requesting Omni-Directional due to technical malfunctions. GMP must call APP via VCCS to coordinate
+
+> **GMP:** *Calls APP via VCCS*
+
+> **APP:**  *Accepts call from GMP*
+
+> **GMP -> APP:** *APP, SVA123 is an A320. Requesting approval for Omni-Directional Departure..*
+
+> **APP -> GMP:** *GMP, Omni-Directional approved* | **(Use Expect Radar Vectors in Clearance)**
+
+***OR***
+> **APP -> GMP:** *GMP, Omni-Directional approved, Runway heading/Left Turn heading 310 after departure* | **(Use Maintain Runway Heading/Assigned heading in Clearance)**
+---
+### 2.2.3 Rerouting Traffic
+The responsibility of ensuring that all aircraft have the accurate and realistic route lies with the GMP. The GMP should utilize the RouteChecker tool for this purpose.
 
 If a traffic files an invalid route, they shall be informed by GMP of such as soon as they have connected to the network by private message or on frequency.
 
-#### 2.3.1  Rerouting by voice
+#### 2.2.3.1  Rerouting by voice
 
 GMP may use the following phrasesolgy to reroute traffic.
 
+> **GMP:** SVA123, Cleared Jeddah, MIBRA N687 KIA, Flight plan route, MIBRA2F, Runway 34L, Initial Climb 4000ft, SQWK XXXX
 
+Altough this is allowed, it consumes time on frequency which maybe needed for other traffic on the frequency. Therefore, Rerouting by Private Message is preferred.
 
+####  2.2.3.2 Rerouting by private message
+
+This is the preferred way of rerouting traffic. Refer to the Alias.
+
+---
+
+### 2.2.4 Crusing Flight Level (CFL)
+GMP must ensure all traffic are cleared on the appropriate CFL. 
+
+#### 2.2.4.1  Semi-Circular Rule
+GMP must ensure the semi-circular rule is followed. For more information regarding the Semi-Circular Rule, refer to the Saudi S1 Training vMATS.
+
+---
+
+### 2.2.5 Delay Mitigation
+
+Refer to XXX.
+
+---
+## 2.3  VFR Clearances
+GMP is responsible for issuing VFR Clearances as well. Prior to issuing a VFR Clearance to any traffic, GMP **must** coordinate with AIR.
+
+### 2.3.1 VFR Circuits
+
+|Details |Oxford Traffic|Other Traffic|
+|:--:|:--:|:--:|
+|**Runway(s)**|34R/16L|34L/16R *OR* 34R/16L|
+|**Direction**|East|West for 34L/16R, East for 34R/16L|
+|**Altitude(s)**| 1000ft AGL | 1500ft AGL. *(2000ft on request for Jets)*|
+
+#### 2.3.1.1 Oxford Training Circuits
+Oxford Saudi Flight Academy aircraft operate on visual traffic circuit **east of RWY 16L/34R** as follows:
+
+- **Left** hand circuit for RWY **16L**
+- **Right** hand circuit for RWY **34R**
+- Circuit area is contained within **2 NM** of RWY 16L/34R.
+- Circuit height: **1000 FT AGL**.
+
+#### 2.3.1.2  Other Traffic 
+
+Piston aircraft should be granted clearance to perform circuits on the eastern side of Runway 34R/16L. They may fly at an altitude of either **1000 feet** *or 1500 feet if necessary*. Alternatively, they can be cleared for circuits on Runway 34L/34R at an altitude of 1500 feet.
+
+Jet engine aircraft, on the other hand, must receive clearance to conduct circuits on the western side of Runway 34L/16R, maintaining 1500 feet.
+
+####  2.3.1.3 Phrasesolgy
+
+> **GMP:** *HAZAZ, Cleared VFR Circuits, Runway 34L, Make a left hand circuit and climb to 1500ft, SQWK 2423.*
+
+<div className="center-align">
+  <p>***--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------***</p>
+</div>
+
+> **GMP:** *HAZAZ, Readback Correct, Information A, Report Ready for Startup* ***(Pushback if on a terminal)***
+
+---
+
+### 2.3.2 VFR Crosscountry
+
+Any VFR aircraft leaving the control zone at Dammam is considered to be engaging in cross-country VFR flight.
+
+Prior to granting clearance for cross-country VFR traffic, coordination with the AIR and APP is required. 
+
+There are no specific restrictions, designated VFR routes, or prescribed exit points for VFR departures leaving the control zone at Dammam.
+
+::::info Do note
+
+VFR Crosscountry traffic are considered as departures and shall depart from the active departure runway unless needed otherwise by AIR.
+
+::::
+
+####  2.3.2.1 Phrasesolgy
+
+> **GMP:** *HAZAZ, Cleared VFR to Madinah, Runway 34L, SQWK 3423*
+
+<div className="center-align">
+  <p>***--------------------------------------------------------------Pilot Readbacks--------------------------------------------------------------***</p>
+</div>
+
+> **GMP:** *HAZAZ, Readback Correct, Information A, Report Ready for Startup* ***(Pushback if on a terminal)***
