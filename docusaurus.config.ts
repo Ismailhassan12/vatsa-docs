@@ -61,6 +61,17 @@ const config: Config = {
                     position: "left",
                     label: "SOPs",
                 },
+                {
+                    type: "docSidebar",
+                    sidebarId: "testSidebar",
+                    position: "left",
+                    label: "Hello",
+                },
+                {
+                    href: "https://www.vatsimsa.com/",
+                    position: "right",
+                    label: "Official Website",
+                },
             ],
         },
         footer: {
