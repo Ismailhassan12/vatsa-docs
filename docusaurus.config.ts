@@ -81,8 +81,8 @@ const config: Config = {
                     title: "Docs",
                     items: [
                         {
-                            label: "Tutorial",
-                            to: "/docs",
+                            label: "SOPs",
+                            to: "/docs/sops/OEJN/general-information",
                         },
                     ],
                 },
