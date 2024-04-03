@@ -19,7 +19,7 @@ function Header() {
                 <p className="hero__subtitle">{siteConfig.tagline}</p>
 
                 <div className={styles.buttons}>
-                    <Link className="button button--secondary button--lg" to="/docs/sops/OEJN/general-information">
+                    <Link className="button button--secondary button--lg" to="/docs/sops/introduction">
                         View SOPs
                     </Link>
                 </div>

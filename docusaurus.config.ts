@@ -82,7 +82,7 @@ const config: Config = {
                     items: [
                         {
                             label: "SOPs",
-                            to: "/docs/sops/OEJN/general-information",
+                            to: "/docs/sops/introduction",
                         },
                     ],
                 },
