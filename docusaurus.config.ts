@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
     title: "VATSIM Saudi Arabia",
     tagline: "Standard Operating Procedures",
-    favicon: "img/favicon.ico",
+    favicon: "assets/favicon.ico",
 
     // Set the production url of your site here
     url: "https://sops.vatsimsa.com",
@@ -47,7 +47,7 @@ const config: Config = {
 
     themeConfig: {
         // Replace with your project's social card
-        image: "img/docusaurus-social-card.jpg",
+        // image: "img/docusaurus-social-card.jpg",
         navbar: {
             title: "VATSIM Saudi Arabia",
             logo: {
