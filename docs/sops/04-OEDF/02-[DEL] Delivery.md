@@ -1,8 +1,8 @@
 ---
-slug: del-approach
+id: del-approach
+title: "[DEL] Delivery"
 toc_min_heading_level: 2
 toc_max_heading_level: 6
-title: "[DEL] Delivery"
 ---
 
 # Dammam Delivery [OEDF_1_GND]
