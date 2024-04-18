@@ -63,7 +63,7 @@ const config: Config = {
                 },
                 {
                     type: "docSidebar",
-                    sidebarId: "testSidebar",
+                    sidebarId: "vmatsSidebar",
                     position: "left",
                     label: "Training vMATS",
                 },
