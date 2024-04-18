@@ -7,7 +7,7 @@ toc_max_heading_level: 6
 
 # Dammam Delivery [OEDF_1_GND]
 
-This section details all the necesary Standard Operating Procedures for Delivery Operations in **King Fahd International Airport (OEDF)**
+This section details all the necessary Standard Operating Procedures for Delivery Operations in **King Fahd International Airport (OEDF)**
 
 ::::caution Do Note
 

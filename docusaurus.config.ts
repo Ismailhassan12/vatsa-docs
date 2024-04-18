@@ -65,7 +65,7 @@ const config: Config = {
                     type: "docSidebar",
                     sidebarId: "testSidebar",
                     position: "left",
-                    label: "Hello",
+                    label: "Training vMATS",
                 },
                 {
                     href: "https://www.vatsimsa.com/",
