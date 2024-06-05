@@ -1,7 +1,7 @@
 ---
 title: "[GND] Ground"
 ---
-# Dammam Ground [OEDF_1_GND]
+# Dammam Ground [OEDF_X_GND]
 
 This section details all the necessary Standard Operating Procedures for Ground Operations in **King Fahd International Airport (OEDF)**
 
@@ -19,7 +19,14 @@ This section details all the necessary Standard Operating Procedures for Ground 
 
 Aircraft are issued pushback clearances by the GMC controlling the respective apron that the aircraft is parking at.
 
-Pushback direction is based primarily on aircraft location and runway configuration.
+Pushback direction is based primarily on aircraft location, runway configuration and the apron's flow directiom.
+
+::::info Apron Flow Direction
+
+The apron's flow direction can be determined by examining the taxiway diagrams outlined in the **[TWR] Tower** section of this aerodrome's SOP.
+
+By looking at the entry and exit taxiways of the apron, it is very obvious what the direction that all traffic should face.
+::::
 
 ## 2.1 Push-back Types
 ### 2.1.1 Standard Push-back
@@ -31,9 +38,9 @@ This is the default type of push-back which will normally have the aircraft stop
 
 > **GMP:** SVA123, Push & Start Approved, Face North on C.
 
-::::info Be helpfull!
+::::tip Be helpful!
 
-If you wish to be helpfull towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
+If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
 
 ::::
 ### 2.1.2 Short Push-back

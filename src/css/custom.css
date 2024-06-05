@@ -5,6 +5,9 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
 :root {
     --ifm-color-primary: #16a34a;
     --ifm-color-primary-dark: #149343;
@@ -15,6 +18,7 @@
     --ifm-color-primary-lightest: #1dd460;
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -31,3 +35,17 @@
 .center-align {
     text-align: center;
 }
+table {
+    display: table;
+    width: initial;
+    margin: 0 auto;
+}
+h4 {
+    font-size: 19px; /* Adjust the value as per your preference */
+  }
+h5 {
+    font-size: 18px; /* Adjust the value as per your preference */
+  }
+h6 {
+    font-size: 18px; /* Adjust the value as per your preference */
+  }
