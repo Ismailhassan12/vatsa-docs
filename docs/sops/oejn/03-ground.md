@@ -71,7 +71,7 @@ Controllers must log in the following order to maintain realizm and follow SOPs:
 
 - GMC 1 [OEJN_1_GND]
 - GMP [OEJN_DEL]
-- GMC 2[OEJN_2_GND]
+- GMC 2 [OEJN_2_GND]
 - GMC 3 [OEJN_3_GND]
 
  This hierarchy of connection must always be followed unless ATS staff explictly permit you to do otherwise.
@@ -119,7 +119,42 @@ By looking at the entry and exit taxiways of the apron, it is very obvious what 
 </div>
 
 ####  3.1.2 Colored Taxilines
+The King Abdulaziz International Airport (OEJN) utilizes colored taxilines in **Terminal 1 (Apron B and A)** to facilitate efficient and quick ground movement taxi/pushback operations in large aprons.
 
+| **Colors** | **Taxiways** |             **Maximum Aircraft Code**            |
+|:----------:|:------------:|:------------------------------------------------:|
+|  **Blue**  |    KB, LB    | Code C (Aircrafts with a wingspan less then 36m) |
+| **Orange** |    KC, LC    | Code C (Aircrafts with a wingspan less then 36m) |
+<div className="center-align">
+*Table 3.2.2 - Colored Taxilines (Aprons B and C)*
+</div>
+
+::::tip 
+To remember the colors, remember that taxiways K**B** and L**B** are blue since they end with a B. While LA and KA ending with **A** are the main taxiways that are yellow.
+::::
+<div className="center-align">
+![Loading](imgs/boy.png)
+</div>
+<div className="center-align">
+*Figure 3.2.4 - Colored Taxilines (Aprons B and C)*
+</div>
+
+##### 3.1.2.1 Pushback on the Colored Lines
+
+Pushback on the colored lines should be given in the following phrasesolgy:
+
+> GMC: SVA123, Push & Start approved, face south on the blue line.
+
+::::info Do note
+
+For LA and KA, the taxiway names must be said. Also, if need be the taxiway names of the colored lines can be used aswell for instructions.
+
+::::
+::::danger Be careful!!
+
+Controllers must be careful and vigilant regarding pushbacks on the colored lines and also pay attention to the aircraft sizes.
+
+::::
 #### 3.1.3  Push-Back Types
 ##### 3.1.3.1 Standard Push-back
 This is the default type of push-back which will normally have the aircraft stop abeam the adjacent stand.
