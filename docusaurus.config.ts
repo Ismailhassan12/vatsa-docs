@@ -37,7 +37,6 @@ const config: Config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                 },
-                blog: false,
                 theme: {
                     customCss: "./src/css/custom.css",
                 },
@@ -72,6 +71,7 @@ const config: Config = {
                     position: "right",
                     label: "Official Website",
                 },
+                {to: 'blog', label: 'Revisions', position: 'left'},
             ],
         },
         footer: {

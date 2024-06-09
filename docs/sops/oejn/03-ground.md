@@ -36,7 +36,7 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 
 ![Loading](imgs/gmc1.png)
 <div className="center-align">
-  <p>* 2.1.1 - Jeddah Ground West AOR*</p>
+  <p>*Figure 2.1.1 - Jeddah Ground West AOR*</p>
 </div>
 
 ### 2.2 GMC 2 [Jeddah Ground East]
@@ -66,7 +66,22 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
   <p>*Figure 2.1.3 - Jeddah Ground Center AOR*</p>
 </div>
 
-### 2.4 Splitting Positions
+### 2.4 Standard Connection Hierarchy 
+Controllers must log in the following order to maintain realizm and follow SOPs: 
+
+- GMC 1 [OEJN_1_GND]
+- GMP [OEJN_DEL]
+- GMC 2[OEJN_2_GND]
+- GMC 3 [OEJN_3_GND]
+
+ This hierarchy of connection must always be followed unless ATS staff explictly permit you to do otherwise.
+
+### 2.5 Splitting Positions
+
+If GMC 1 and GMC 2 are online without GMC 3, GMC 1 must cover the west side of the aerodrome while GMC 2 must cover the east side of the aerodrome (Split at Runway 34C).
+
+Other then that, refer to the figures above to find the designated areas of responsiblity when all controllers are online. 
+
 ---
 
 ## 3.  Procedures
@@ -88,31 +103,25 @@ The pushback direction is based primarily on aircraft location, runway configura
 
 #### 3.1.1  Apron Flow Direction
 
-The apron's flow direction can be determined by examining the taxiway diagrams outlined in the **[TWR] Tower** section of this aerodrome's SOP.
+The apron's flow direction can be determined by examining the taxiway diagrams outlined in *Section 3.2.6* of this aerodrome's GND SOP.
 
 By looking at the entry and exit taxiways of the apron, it is very obvious what the direction that all traffic should face.
+
 |       **Apron(s)**       |     _34s DDRO/SDRO_     | _16s DDRO/SDRO_ |
 |:------------------------:|:-----------------------:|:---------------:|
 |        **Apron A**       |        Southbound       |    Northbound   |
 |        **Apron B**       |        Southbound       |    Southbound   |
 |        **Apron C**       |        Westbound        |    Westbound    |
 | **Aprons 1, 2, 3, 4, 5** |        Southbound       |    Northbound   |
-|        **Apron 7**       | **_North/Southbound*_** |    Northbound   |
+|        **Apron 7**       |        Southbound       |    Northbound   |
 <div className="center-align">
   <p>*Table 3.1.1 - Jeddah Aprons Flow Direction*</p>
 </div>
- 
-::::caution Apron 7 | North/Soundbound*
-Managing traffic flow on Apron 7 under the 34s configurations requires adherence to specific directional rules around taxiway D6. 
 
-North of D6, all traffic must move southbound, while south of D6, traffic must move northbound. For aircraft on stand 7-6A, pushback must be directed south, ensuring they stay clear of D6. Conversely, aircraft on stand 7-6B must push north, also avoiding D6. Stand 7-6 allows for more flexibility, permitting pushback in any direction, as long as D6 is kept clear.
+####  3.1.2 Colored Taxilines
 
-::::danger be careful and aware!
-The area around Apron 7 near taxiway D6 is a particularly hazardous hotspot on the aerodrome, especially under the 34s configurations. Controllers must remain vigilant to any movements in this zone to prevent situations where two aircraft might face each other, creating potential conflicts. Additionally, the apron area typically has reduced wing span space and increased ground traffic, further complicating the movement of aircraft.
-::::
-
-#### 3.1.2  Push-Back Types
-##### 3.1.2.1 Standard Push-back
+#### 3.1.3  Push-Back Types
+##### 3.1.3.1 Standard Push-back
 This is the default type of push-back which will normally have the aircraft stop abeam the adjacent stand.
 
 ***Phrasesolgy:*** 
@@ -126,7 +135,7 @@ This is the default type of push-back which will normally have the aircraft stop
 If you wish to be helpful towards the pilots, you may give them the local QNH. This is not mandatory as the pilot acknowledged the latest ATIS which contains the QNH!
 
 ::::
-##### 3.1.2.2 Short Push-back
+##### 3.1.3.2 Short Push-back
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
 
 ***Phrasesolgy:*** 
@@ -135,7 +144,7 @@ A short pushback instruction shall require the aircraft to complete the pushback
 
 > **GMP:** SVA123, Short Pushback Approved, Face West on WA.
 
-##### 3.1.2.3 Long Push-back
+##### 3.1.3.3 Long Push-back
 A long pushback instruction shall require aircraft to complete the pushback operation more then two stands away from where the pushback was commenced. This manoeuvre may be used when an aircraft is vacating a stand to be used by another aircraft that is taxing in.
 
 ***Phrasesolgy:*** 
@@ -156,7 +165,7 @@ If you desire to provide precise instructions regarding the end point of the pus
 
 ::::
 
-##### 3.1.2.4 Conditional Push-back
+##### 3.1.3.4 Conditional Push-back
 
 In certain situations, conditional pushback instructions may be given when there is an aircraft taxiing behind another aircraft that is waiting for pushback. This ensures safe coordination and efficient movement on the taxiway. This type of pushback is always prefered to be used when applicable as it saves radio time and eases the controller's job.
 
@@ -184,27 +193,183 @@ In addition, if both aircraft involved in the conditional pushback instruction b
 The traffic is only mandated to say "Behind" **once**. The controller is mandated to say it **twice** to ensure the instruction is clear.
 ::::
 
-##### 3.1.2.5 Simultaneous pushback operations
+##### 3.1.3.5 Simultaneous pushback operations
 Simultaneous pushbacks from neighboring stands may be allowed if aircraft are directed using the pushback types described in section 3.1. The aim is to ensure that once both aircraft have completed their pushback procedures, they will be positioned on the taxiway with one stand between them.
 
 ---
 
 ### 3.2  Taxi Procedures
 ####  3.2.1  Departure Taxi Procedures
+##### 3.2.1.1 34s DDRO Departure Taxi Procedures
 
-##### 3.2.1.1 General Departure Taxi Procedures
-##### 3.2.1.2 34s DARO Departure Taxi Procedures
-##### 3.2.1.3 34s SARO Departure Taxi Procedures
-##### 3.2.1.4 34s DARO Departure Taxi Procedures
-##### 3.2.1.5 16s SARO Departure Taxi Procedures
-#### 3.2.2  Arrival Taxi Procedures
-##### 3.2.2.1 General Arrival Taxi Procedures
-##### 3.2.2.2 34s DARO Arrival Taxi Procedures
-##### 3.2.2.3 34s SARO Arrival Taxi Procedures
-##### 3.2.2.4 34s DARO Arrival Taxi Procedures
-##### 3.2.2.5 16s SARO Arrival Taxi Procedures
-####  3.2.2 Taxi Diagrams
-##### 3.2.2.1 34's DARO
-##### 3.2.2.2 34's SARO
-##### 3.2.2.3 16's DARO
-##### 3.2.2.4 16's SARO
+|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:------------------:|
+|      **Apron A**     |      Runway 34R      |         M1/M2        |          L1/L2/L3         |     ME/MF    |     _Immediate_    |
+|      **Apron B**     |      Ruwway 34C      |         H1/H2        |          K1/K2/K3         |     HE/HF    |     _Immediate_    |
+|      **Apron C**     |       Runway 34C     |         H1/H2        |           W1/W2           |     W, H     |   _Passing by HB_  |
+| **Aprons 1,2,3,4,5** |       Runway 34C     |         G1/G2        |            N/A            |     U, G     |    _Passing GB_    |
+|      **Apron 6**     |       Runway 34C     |         G1/G2        |             E             |    E, S, G   |    _Passing GB_    |
+|      **Apron 7**     |       Runway 34C     |         G1/G2        |             D5            |  D5, C, S, G |    _Passing GB_    |
+
+##### 3.2.1.2 34s SDRO Departure Taxi Procedures
+
+|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:------------------:|
+|      **Apron A**     |      Runway 34C      |         H1/H2        |          L1/L2/L3         |     ME/MF, M, W, H   |     _Immediate_    |
+|      **Apron B**     |      Ruwway 34C      |         H1/H2        |          K1/K2/K3         |     HE/HF    |     _Immediate_    |
+|      **Apron C**     |       Runway 34C     |         H1/H2        |           W1/W2           |     W, H     |   _Passing by HB_  |
+| **Aprons 1,2,3,4,5** |       Runway 34C     |         G1/G2        |            N/A            |     U, G     |    _Passing GB_    |
+|      **Apron 6**     |       Runway 34C     |         G1/G2        |             E             |    E, S, G   |    _Passing GB_    |
+|      **Apron 7**     |       Runway 34C     |         G1/G2        |             D5            |  D5, C, S, G |    _Passing GB_    |
+
+##### 3.2.1.3 16s DDRO Departure Taxi Procedures
+
+|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:------------------:|
+|      **Apron A**     |      Runway 16L      |         M8/M9        |          L3/L4            |     L, S, M  |     _Turing on M_  |
+|      **Apron B**     |      Ruwway 16C      |         H7           |          K1/K2/K3         |  HE/HF, H    |     _Passing R_    |
+|      **Apron C**     |       Runway 16C     |         H7           |           W1/W2           |     W, H     |   _Passing by R_  |
+| **Aprons 1,2,3,4,5** |       Runway 16C     |         G6           |            N/A            |     T, G     |    _Passing R_    |
+|      **Apron 6**     |       Runway 16C     |         G6           |             E             |    E, S, G   |    _Passing R_    |
+|      **Apron 7**     |       Runway 16C     |         G6           |             B7/D6         |  B, S, G     |    _Passing R_    |
+
+##### 3.2.1.4 16s SDRO Departure Taxi Procedures
+
+|       **Apron**      | **Departure Runway** | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:--------------------:|:-------------------------:|:------------:|:------------------:|
+|      **Apron A**     |      Runway 16C      |         H7        |          L3/L4            |     L, R, H  |     _Turing on H_  |
+|      **Apron B**     |      Ruwway 16C      |         H7           |          K1/K2/K3         |  HE/HF, H    |     _Passing R_    |
+|      **Apron C**     |       Runway 16C     |         H7           |           W1/W2           |     W, H     |   _Passing by R_  |
+| **Aprons 1,2,3,4,5** |       Runway 16C     |         G6           |            N/A            |     T, G     |    _Passing R_    |
+|      **Apron 6**     |       Runway 16C     |         G6           |             E             |    E, S, G   |    _Passing R_    |
+|      **Apron 7**     |       Runway 16C     |         G6           |             B7/D6         |  B, S, G     |    _Passing R_    |
+---
+#### 3.2.3 Stand Allocation Procedure
+Stands are assigned by the SAUControllerPack in the Euroscope, but controllers should preferably have a basic idea of stand assignments.
+| **Aprons** |                         **Airlines**                        |
+|:----------------------:|:-----------------------------------------------------------:|
+|         Apron A        |                        Saudi Airlines                       |
+|         Apron B        |           Legacy Gulf Airlines (SVA, UAE, ETD etc)          |
+|         Apron C        | Low cost and major international airlines (KNE,FAD,KAC,THY) |
+|    Aprons 1,2,3,4,5    |                        International                        |
+|       Aprons 6, 7      |                            Hajj                             |
+|         Apron 9        |                            Cargo                            |
+|        Apron 11        |                   Hanger (Cargo Overfill)                   |
+|        Apron 12        |                          Military                           |
+|         Apron 8        |                            Royal                            |
+|         Apron G        |                       General Aviation                      |
+<div className="center-align">
+  <p>*Table 3.2.4 - Stand Allocation Procedure*</p>
+</div>
+---
+
+#### 3.2.4 Arrival Taxi Routes [ATRs]
+**Arrival Taxi Routes (ATRs)** are short pre-defined initial taxi paths for traffic that are designed to maintain a smooth flow of traffic after aircraft vacate the runway. These routes are established to prevent traffic congestion around the RETs and to optimize the tower's efficiency by avoiding the need to provide initial taxiway instructions. Instead, the tower instructs the aircraft to follow one of the predetermined ATRs based on the assigned parking stand by the Ground (GND) controller.
+
+This allows for a smooth and immediate transfer of traffic to the appropriate ground controller.
+
+::::caution Do Note
+
+The Tower controller is responsible for assigning the Arrival Taxi Route (ATR) to aircraft. However, it is essential for the Ground controller to be familiar with these routes in order to anticipate when transfers from the Tower will occur and to follow the correct handoff procedure. 
+
+By being familiar with the ATRs, the Ground controller can anticipate the aircraft's movements and facilitate effective communication and coordination during the handoff process between the Tower and Ground controllers.
+
+It also the ground controller's responsiblity to beware of these ATRs and be cautious when clearing other aircrafts in the path of the ATRs/
+::::
+
+#####  3.2.4.1 34 Arrival Taxi Routes
+| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
+|:----------------------:|--------|:-----------------------------:|:--------------:|
+|           M4A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to GMC 2 |
+|           M6A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to GMC 2 |
+|           M7A          | 34R    |  M, S, L **Hold Short of MA** | AIR 2 to GMC 2 |
+|           M7B          | 34R    |    M, R **Hold Short of J**   | AIR 2 to GMC 3 |
+|           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to GMC 1 |
+|           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to GMC 1 |
+|           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to GMC 1 |
+<div className="center-align">
+  <p>*Table 3.2.5 - 34 Arrival Taxi Routes*</p>
+</div>
+
+‎ ‎
+
+::::caution
+All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
+::::
+
+#####  3.2.4.2 16 Arrival Taxi Routes
+| **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
+|:----------------------:|--------|:-----------------------------:|:--------------:|
+|           M5A         | 16L    | M  **Hold Short of MB**  | AIR 2 to GMC 2 |
+|           M3A          | 16L    | M **Hold Short of MD**  | AIR 2 to GMC 2 |
+|           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to GMC 1 |
+|           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to GMC 1 |
+|           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to GMC 1 |
+<div className="center-align">
+  <p>*Table 3.2.6 - 16 Arrival Taxi Routes*</p>
+</div>
+‎ ‎
+
+::::caution
+All Traffic Movements on B must give way to traffic vacating runway 34L/16R.
+::::
+#####  3.2.4.3 Diagram of Arrival Taxi Routes
+![Loading](imgs/ATR.png)
+<div className="center-align">
+  <p>*Figure 3.2.1 - Arrival Taxi Routes Diagram*</p>
+</div>
+---
+
+#### 3.2.5  Arrival Taxi Procedures
+##### 3.2.5.1 General Arrival Taxi Procedures
+GMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
+
+Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
+
+##### 3.2.5.2 34s DDRO/SDRO Arrival Taxi Procedures
+
+|      **Type**     |    **Taxi to**   | **Vacate via** |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------:|:----------------:|:--------------:|:----------------------------------:|:--------------------------:|
+|     **Saudi**     |      Apron A     |    M6 [34R]    |            MA, L, L5/L4            | MA, L, **Hold Short of V** |
+|     **Legacy**    |      Apron C     |    M6 [34R]    |           MA, L, W, W4/W3          | MA, L, **Hold Short of V** |
+|     **Cargo**     |      Apron 9     |    B5 [34L]    |               B, U, F              |    B **Hold Short of U**   |
+| **International** | Aprons 1,2,3,4,5 |    B5 [34L]    |               D3, C/T              |             N/A            |
+|      **Hajj**     |    Aprons 6,7    |    B5 [34L]    | **D3 [Apron 7]**  / D3, C, S, F [Apron 6] |             N/A     |
+|     **Royal**     |      Apron 8     |    A5 [34L]    |                  A                 |             N/A            |
+|    **Low Cost**   |      Apron B     |     M7 [34R]   |           M, R, K, K5/K4           |    M **Hold Short of R**   |
+
+##### 3.2.5.3 16s DDRO/SDRO Arrival Taxi Procedures
+
+|      **Type**     |    **Taxi to**   | **Vacate via** |                **Taxi via**                | **Initial Taxi By TWR** |
+|:-----------------:|:----------------:|:--------------:|:------------------------------------------:|:-----------------------:|
+|     **Saudi**     |      Apron A     |    M3 [16L]    |                 M, L3/L2/L1                |  M **Hold Short of L3** |
+|     **Legacy**    |      Apron C     |    M5 [16L]    |                  W, W4/W3                  |  W **Hold Short of L**  |
+|     **Cargo**     |      Apron 9     |    B2 [16R]    |                  B, U , F                  |  B **Hold Short of U**  |
+| **International** | Aprons 1,2,3,4,5 |    B2 [16R]    |                  B, U , F                  |  B **Hold Short of U**  |
+|      **Hajj**     |    Aprons 6,7    |    B4 [16R]    | **B, C, D3 [Apron 7]** / B, S, E [Apron 6] |  B **Hold Short of R**  |
+|     **Royal**     |      Apron 8     |    A2 [16R]    |                      A                     |           N/A           |
+|    **Low Cost**   |      Apron B     |    M5 [16L]    |                 W, K K5/K4                 |  W **Hold Short of L**  |
+
+####  3.2.6 Taxi Diagrams
+##### 3.2.6.1 Legend
+###### Departures
+![Loading](imgs/blue.png)
+###### Arrivals
+![Loading](imgs/yellow.png)
+###### Royal Arrivals
+![Loading](imgs/grn.png)
+###### Hajj Arrivals
+![Loading](imgs/yelldot.png)
+###### Cargo Arrivals
+![Loading](imgs/org.png)
+
+
+##### 3.2.6.2 34's DDRO
+![Loading](imgs/34DDRO.png)
+##### 3.2.6.3 34's SDRO
+![Loading](imgs/34SDRO.png)
+##### 3.2.6.4 16's DDRO
+![Loading](imgs/16DDRO.png)
+##### 3.2.6.5 16's SDRO
+![Loading](imgs/16SDRO.png)
+
