@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
     title: "VATSIM Saudi Arabia",
-    tagline: "Standard Operating Procedures",
+    tagline: "Controller Training Documentation",
     favicon: "assets/favicon.ico",
 
     // Set the production url of your site here
@@ -62,9 +62,21 @@ const config: Config = {
                 },
                 {
                     type: "docSidebar",
+                    sidebarId: "supSidebar",
+                    position: "left",
+                    label: "Supplementary Guides",
+                },
+                {
+                    type: "docSidebar",
                     sidebarId: "vmatsSidebar",
                     position: "left",
                     label: "Training vMATS",
+                },
+                {
+                    type: "docSidebar",
+                    sidebarId: "secSidebar",
+                    position: "left",
+                    label: "Sector Guides",
                 },
                 {
                     href: "https://www.vatsimsa.com/",

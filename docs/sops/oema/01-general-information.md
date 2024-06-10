@@ -2,8 +2,6 @@
 title: General Information
 ---
 
-NOTE: THIS PAGE IS HIDDEN AND WILL SHOW WHEN YOU CLICK THE CATEGORY
-
 **Prince Mohammad Bin Adbulaziz International Airport (OEMA)** situated in **Medina, Saudi Arabia**, commenced operations in 1950 and has since seen expansions to accommodate its growing importance. While primarily serving domestic flights, it also offers international services to nearby destinations like Cairo, Dubai, Istanbul, and Kuwait City. During the Hajj and Umrah seasons, the airport becomes pivotal, managing charter international flights to support pilgrims.
 
 ::::info Fun Fact
