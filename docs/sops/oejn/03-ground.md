@@ -126,7 +126,7 @@ The King Abdulaziz International Airport (OEJN) utilizes colored taxilines in **
 |  **Blue**  |    KB, LB    | Code C (Aircrafts with a wingspan less then 36m) |
 | **Orange** |    KC, LC    | Code C (Aircrafts with a wingspan less then 36m) |
 <div className="center-align">
-*Table 3.2.2 - Colored Taxilines (Aprons B and C)*
+<p> *Table 3.2.2 - Colored Taxilines (Aprons B and C)* </p>
 </div>
 
 ::::tip 
@@ -136,7 +136,7 @@ To remember the colors, remember that taxiways K**B** and L**B** are blue since 
 ![Loading](imgs/boy.png)
 </div>
 <div className="center-align">
-*Figure 3.2.4 - Colored Taxilines (Aprons B and C)*
+<p> *Figure 3.2.4 - Colored Taxilines (Aprons B and C)* </p>
 </div>
 
 ##### 3.1.2.1 Pushback on the Colored Lines

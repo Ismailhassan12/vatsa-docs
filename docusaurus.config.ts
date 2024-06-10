@@ -71,7 +71,7 @@ const config: Config = {
                     position: "right",
                     label: "Official Website",
                 },
-                {to: 'blog', label: 'Revisions', position: 'left'},
+                {to: '/blog', label: 'Revisions', position: 'left'},
             ],
         },
         footer: {
