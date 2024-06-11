@@ -3,7 +3,7 @@ title: "[DEL] Delivery"
 ---
 # Jeddah Clearance [OEJN_DEL]
 
-This section details all the necessary Standard Operating Procedures for Delivery Operations in **King Abdulaziz International Airport (OEDF)**
+This section details all the necessary Standard Operating Procedures for Delivery Operations in **King Abdulaziz International Airport (OEJN)**
 
 # 1. General Provisions
 
