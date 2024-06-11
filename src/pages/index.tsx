@@ -10,17 +10,20 @@ function Header() {
     const { siteConfig } = useDocusaurusContext();
 
     return (
-        <div class="video-container">
-  <video autoplay loop muted disablepictureinpicture disableremoteplayback playsinline>
-    <source src="https://cdn.vatsimsa.com/files/vid.mp4" type="video/mp4" />
-  </video>
-  
-  <div class="video-container_content">
-    <h1>
-      Any content here!
-    </h1>
-  </div>
-</div>
+        <div className={styles.videoContainer}>
+            <video className={styles.video} autoPlay loop muted disablePictureInPicture disableRemotePlayback playsInline>
+                <source src="https://cdn.vatsimsa.com/files/vid.mp4" type="video/mp4" />
+            </video>
+
+            <div className={styles.videoContainerContent}>
+                <div className={styles.videoContainerContentTitle}>
+                    Saudi Arabian vACC
+                </div>
+                <div className={styles.videoContainerContentText}>
+                    Saying Training Documentation Site
+                </div>
+            </div>
+        </div>
     );
 }
 
