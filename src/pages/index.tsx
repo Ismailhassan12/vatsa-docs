@@ -11,19 +11,19 @@ function Header() {
 
     return (
         <div className={styles.videoContainer}>
-            <video className={styles.video} autoPlay loop muted disablePictureInPicture disableRemotePlayback playsInline>
-                <source src="https://cdn.vatsimsa.com/files/vid.mp4" type="video/mp4" />
-            </video>
-
-            <div className={styles.videoContainerContent}>
-                <div className={styles.videoContainerContentTitle}>
-                    Saudi Arabian vACC
-                </div>
-                <div className={styles.videoContainerContentText}>
-                    Training Documentation Site
-                </div>
+        <video className={`${styles.video} ${styles.blur}`} autoPlay loop muted disablePictureInPicture disableRemotePlayback playsInline>
+            <source src="https://cdn.vatsimsa.com/files/vid1.mp4" type="video/mp4" />
+        </video>
+    
+        <div className={styles.videoContainerContent}>
+            <div className={styles.videoContainerContentTitle}>
+                Saudi Arabian vACC
+            </div>
+            <div className={styles.videoContainerContentText}>
+                Controller Training Documentation
             </div>
         </div>
+    </div>
     );
 }
 

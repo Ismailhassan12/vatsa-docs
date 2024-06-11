@@ -51,9 +51,26 @@
 
 .videoContainerContentTitle {
     font-weight: bold;
+    font-size: 90px;
+    
+}
+.videoContainerContentTitle::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 80px; /* Adjust the distance of the underline from the text */
+    width: 100%;
+    height: 2px; /* Adjust the thickness of the underline */
+    background-color: white; /* Adjust the color of the underline */
+    display: block;
+    margin-top: 10px; /* Adjust the space between the text and the underline */
 }
 
 .videoContainerContentText {
-    margin-top: 10px;
+    margin-top: -45px;
+    font-weight: lighter;
+    font-size: 58px
 }
-
+.blur {
+    filter: blur(12px); /* Adjust the blur amount as desired */
+}
