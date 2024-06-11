@@ -10,21 +10,17 @@ function Header() {
     const { siteConfig } = useDocusaurusContext();
 
     return (
-        <header className={clsx("hero hero--primary", styles.heroBanner)}>
-            <div className="container">
-                <Heading as="h1" className="hero__title">
-                    {siteConfig.title}
-                </Heading>
-
-                <p className="hero__subtitle">{siteConfig.tagline}</p>
-
-                <div className={styles.buttons}>
-                    <Link className="button button--secondary button--lg" to="/docs/sops/introduction">
-                        View SOPs
-                    </Link>
-                </div>
-            </div>
-        </header>
+        <div class="video-container">
+  <video autoplay loop muted disablepictureinpicture disableremoteplayback playsinline>
+    <source src="https://cdn.vatsimsa.com/files/vid.mp4" type="video/mp4" />
+  </video>
+  
+  <div class="video-container_content">
+    <h1>
+      Any content here!
+    </h1>
+  </div>
+</div>
     );
 }
 

@@ -19,9 +19,10 @@ When an aircraft has a CTOT time, it will also have an associated **target start
 
 TSATs may be calculated by accounting for the estimated taxi time of the aircraft, plus 5 minutes of leeway. E.g., at OEJN, taxi time for most runways may be estimated at ~10 mins assuming no delays, so for a CTOT is 1515z, an appropriate TSAT would be 1500z.
 
-::::Info Do note.
+::::info Do note.
 In real life, TSATs are automatically calculated. However, on VATSIM, we do not currently have the software to do so within the Jeddah FIR. Therefore, during events, TSAT times may be manually assigned by flow controllers, or may be coordinated between DEL & GND if there is no dedicated flow controller/planner available.
 ::::
+
 If an aircraft has a TSAT, they should be notified of it when issuing their clearance. For example:
 
 > SVA123, Cleared Destination as filed, EGREP2W Departure, RWY 34C, Initial Climb 6000ft, SQWK XXXX, startup time 1315 zulu.

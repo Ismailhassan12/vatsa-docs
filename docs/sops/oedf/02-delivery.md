@@ -214,7 +214,7 @@ GMP must ensure the semi-circular rule is followed. For more information regardi
 
 ### 2.2.5 Delay Mitigation
 
-Refer to XXX.
+Refer to [Supplementary Guides - Flow Management Procedures](/docs/sup/Special%20Procedures/Flow%20Management%20Procedures/flow-management-procedures).
 
 ---
 
