@@ -20,7 +20,7 @@ function Header() {
                     Saudi Arabian vACC
                 </div>
                 <div className={styles.videoContainerContentText}>
-                    Saying Training Documentation Site
+                    Training Documentation Site
                 </div>
             </div>
         </div>
