@@ -86,6 +86,10 @@ const config: Config = {
                 {to: '/blog', label: 'Revisions', position: 'left'},
             ],
         },
+        colorMode: {
+            defaultMode: 'dark',
+            disableSwitch: false,
+          },
         footer: {
             style: "dark",
             links: [
@@ -105,7 +109,7 @@ const config: Config = {
                             to: "/docs/vmats/s1-developing-controller"
                         },
                         {
-                            label: "SEctor Guides",
+                            label: "Sector Guides",
                             to: "/docs/sec/VCCS%20Guide/VCCS",
                         },
                     ],
@@ -132,7 +136,7 @@ const config: Config = {
                     ],
                 },
             ],
-            copyright: `Copyright © 2024 VATSIM Saudi Arabia. Built with Docusaurus.`,
+            copyright: `Copyright © 2024 VATSIM Saudi Arabia.`,
         },
         prism: {
             theme: prismThemes.github,
