@@ -10,7 +10,7 @@ tags: [Approved Controllers, ATC Trainees]
 
 Ladies and gentlemen,
 
-We are delighted to announce the launch of the **(Saudi Arabian vACC Controller Training Documentation Site**. This comprehensive platform offers a wide array of resources, including **Standard Operating Procedures (SOPs), Sector Guides, Quick Reference Handbooks (QRH), and Training vMATS**.
+We are delighted to announce the launch of the **Saudi Arabian vACC Controller Training Documentation Site**. This comprehensive platform offers a wide array of resources, including **Standard Operating Procedures (SOPs), Sector Guides, Quick Reference Handbooks (QRH), and Training vMATS**.
 
 ***Effective immediately, all training documentation will be transferred to this centralized site, streamlining access for our dedicated controllers. Consequently, the following documents are now terminated:***
 
@@ -27,8 +27,6 @@ In addition, we are pleased to release the following SOPs on the new site:
 - Dammam SOP - GND
 
 These SOPs will take effect from **June 13th**. We kindly request that all Air Traffic Controllers operating within Saudi airspace, starting from June 13th, 0000z, **strictly adhere** to these newly established procedures.
-
-We are also actively working on developing the , which will be available soon.
 
 Additionally, Sector Guides, S1 Training vMATS, Basic Radio Telephony Guide, Emergency Manual, and Flow Management Procedure Manual are now accessible on the training documentation site.
 
