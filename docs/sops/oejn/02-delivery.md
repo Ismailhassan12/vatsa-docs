@@ -9,9 +9,6 @@ This section details all the necessary Standard Operating Procedures for Deliver
 
 **Jeddah Clearance (OEJN_DEL)** is entrusted with the task of validating routes and providing IFR/VFR clearances to departing aircraft. This involves carefully reviewing the flight plan and cross-verifying the accuracy of the filed route, assigned level, and departure procedure. In situations where any inconsistencies, errors, or invalid information are identified, the controller must rectify the errors and issue a reclearance.
 
-### **Add Slots**
-
-
 Additionally, the GMP plays a vital role in minimizing potential delays and congestion on the taxiways for outbound flights. During periods characterized by increased departure activities, the GMP implements proactive measures to optimize the flow of traffic. This includes holding aircraft at their stands.
 
 ---

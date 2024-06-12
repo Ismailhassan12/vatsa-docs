@@ -75,3 +75,12 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 |  **Jeddah Final Approach**  |     OEJN_F_APP     |       FIN        |       123.800       |
 | **Jeddah Terminal Control** |     OEJN_1_CTR     |      CTR 1       |       125.450       |
 | **Jeddah Terminal Control** |     OEJN_2_CTR     |      CTR 2       |       119.100       |
+
+## SOP Ammendment Record
+
+|    **SOP Type**    | **Revision** |   **Changes**   |                 **Prepared By**                | **Revised and Approved By** |
+|:------------------:|:------------:|:---------------:|:----------------------------------------------:|:---------------------------:|
+| **Delivery [DEL]** |    01/2024   | Initial Release |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    01/2024   | Initial Release |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |    01/2024   | Initial Release | Tshepo Lekata - HAJJPLN Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+| **Approach [APP]** |      --      |        --       |                       --                       |              --             |

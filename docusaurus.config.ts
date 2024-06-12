@@ -3,12 +3,12 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-    title: "VATSIM Saudi Arabia",
+    title: "Saudi Arabian vACC",
     tagline: "Controller Training Documentation",
     favicon: "assets/favicon.ico",
 
     // Set the production url of your site here
-    url: "https://sops.vatsimsa.com",
+    url: "https://docs.vatsimsa.com",
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: "/",
@@ -96,7 +96,22 @@ const config: Config = {
                             label: "SOPs",
                             to: "/docs/sops/introduction",
                         },
+                        {
+                            label: "Supplementary Guides",
+                            to: "/docs/sup/Radiotelephony%20Manual/Introduction",
+                        },
+                        {
+                            label: "Training vMATS",
+                            to: "/docs/vmats/s1-developing-controller"
+                        },
+                        {
+                            label: "SEctor Guides",
+                            to: "/docs/sec/VCCS%20Guide/VCCS",
+                        },
                     ],
+                    
+
+                    
                 },
                 {
                     title: "Community",

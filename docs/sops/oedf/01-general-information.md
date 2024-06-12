@@ -64,3 +64,12 @@ title: General Information
 |  **Dammam Tower**   |     OEDF_2_TWR     |      AIR 2       |       118.200       |
 | **Dammam Approach** |      OEDF_APP      |      APP 1       |       126.300       |
 | **Dammam Approach** |     OEDF_L_APP     |      APP L       |       126.100       |
+
+## SOPs Ammendment Record
+
+|    **SOP Type**    | **Revision** |   **Changes**   |     **Prepared By**    | **Revised and Approved By** |
+|:------------------:|:------------:|:---------------:|:----------------------:|:---------------------------:|
+| **Delivery [DEL]** |    01/2024   | Initial Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    01/2024   | Initial Incompleted Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |      --      |        --       |           --           |              --             |
+| **Approach [APP]** |      --      |        --       |           --           |              --             |

@@ -5,6 +5,7 @@ title: "[GND] Ground"
 
 This section details all the necessary Standard Operating Procedures for Ground Operations in **King Fahd International Airport (OEDF)**
 
+NOT FULLY DETAILED. USE AS QRH.
 ---
 
 # 1. General Provisions
@@ -71,8 +72,10 @@ If you desire to provide precise instructions regarding the end point of the pus
 
 > **GMP:** SVA123, Long Push & Start Approved, Face North on C, Stay Clear of Taxiway XX.
 
-::::
+# 3. Taxi Diagrams
+# 3.1 34s SRO
+![Loading](imgs/34.png)
+# 3.2 16s SRO
+![Loading](imgs/16.png)
 
-::::
-
-![Loading](https://media.discordapp.net/attachments/1176296290657771611/1230251715715137597/OEDF_GMC_34L_SRO.png?ex=6632a431&is=66202f31&hm=13f3dcd6e254df9e1610de123d50a0520388676d92ce39248fcfe686b7629b77&=&format=webp&quality=lossless&width=675&height=675)
+## Detailed Procedures In the making
