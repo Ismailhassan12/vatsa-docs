@@ -123,7 +123,7 @@ Exceptions to runway configurations can be granted per pilot's request after app
 ::::
 
 #### 3.3.1. Dual Departure Runway Operations [DDRO]
-In the context of runway operations at King Abdulaziz International Airport, the most preferred configuration is the 8**Dual Departure Runway Operations (DDRO)**. This configuration involves utilizing both the center and eastern runways specifically for departures.
+In the context of runway operations at King Abdulaziz International Airport, the most preferred configuration is the **Dual Departure Runway Operations (DDRO)**. This configuration involves utilizing both the center and eastern runways specifically for departures.
 
 By using this configuration, the airport can maximize its departure capacity and efficiently manage the flow of departing aircraft. It allows for simultaneous departures from two runways, thereby reducing congestion and minimizing delays during peak traffic periods.
 
