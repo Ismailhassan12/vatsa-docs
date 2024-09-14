@@ -1,5 +1,5 @@
 ---
-title: Madinah GND - Madinah Ground
+title: Madinah SMC - Madinah Ground
 ---
 **OEMA_GND [Madinah Ground]** is in charge of the Madinah Taxiways and Aprons.
 
