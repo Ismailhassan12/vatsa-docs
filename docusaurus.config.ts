@@ -56,12 +56,6 @@ const config: Config = {
             items: [
                 {
                     type: "docSidebar",
-                    sidebarId: "ctlSidebar",
-                    position: "left",
-                    label: "CTL24E: Controller Briefing",
-                },
-                {
-                    type: "docSidebar",
                     sidebarId: "sopsSidebar",
                     position: "left",
                     label: "SOPs",
