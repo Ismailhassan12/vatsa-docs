@@ -66,9 +66,9 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 | :-------------------------: | :----------------: | :--------------: | :-----------------: |
 |       **Jeddah ATIS**       |     OEJN_ATIS      |       ATIS       |       126.200       |
 |     **Jeddah Delivery**     |      OEJN_DEL      |       GMP        |       121.800       |
-|      **Jeddah Ground**      |     OEJN_1_GND     |      GMC 1       |       121.600       |
-|      **Jeddah Ground**      |     OEJN_2_GND     |      GMC 2       |       121.900       |
-|      **Jeddah Ground**      |     OEJN_3_GND     |      GMC 3       |       121.700       |
+|      **Jeddah Ground**      |     OEJN_1_GND     |      SMC 1       |       121.600       |
+|      **Jeddah Ground**      |     OEJN_2_GND     |      SMC 2       |       121.900       |
+|      **Jeddah Ground**      |     OEJN_3_GND     |      SMC 3       |       121.700       |
 |      **Jeddah Tower**       |     OEJN_1_TWR     |      AIR 1       |       118.200       |
 |      **Jeddah Tower**       |     OEJN_2_TWR     |      AIR 2       |       118.500       |
 |     **Jeddah Approach**     |      OEJN_APP      |      APP 1       |       124.000       |
@@ -80,7 +80,7 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 
 |    **SOP Type**    | **Revision** |   **Changes**   |                 **Prepared By**                | **Revised and Approved By** |
 |:------------------:|:------------:|:---------------:|:----------------------------------------------:|:---------------------------:|
-| **Delivery [DEL]** |    01/2024   | Initial Release |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
-|  **Ground [GND]**  |    01/2024   | Initial Release |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
-|   **Tower [TWR]**  |    01/2024   | Initial Release | Tshepo Lekata - HAJJPLN Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+| **Delivery [DEL]** |    01/2025   | Removed Radar Departure, Updated SIDs, Added Omni-Directional Procedures, Minor Changes |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
+|  **Ground [GND]**  |    01/2025   | Updated all GMC references to SMC,  |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |    01/2025   | Added Independent Parallel Approaches/Departure Procedure, Minor Changes | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
 | **Approach [APP]** |      --      |        --       |                       --                       |              --             |

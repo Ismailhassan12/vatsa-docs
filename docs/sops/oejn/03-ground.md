@@ -16,10 +16,10 @@ The Jeddah Ground manages aircraft movements on aerodrome areas, excluding runwa
 
 ---
 ## 2. Designated Areas of Responsiblity 
-**King Abdulaziz International Airport (OEJN)** features three primary Ground Movement Control (GMC) positions, namely **GMC 1**, **GMC 2** and **GMC 3**. The responsibilities and areas of control for each position are outlined as follows:
-![Loading](imgs/gmc.png)
+**King Abdulaziz International Airport (OEJN)** features three primary Ground Movement Control (SMC) positions, namely **SMC 1**, **SMC 2** and **SMC 3**. The responsibilities and areas of control for each position are outlined as follows:
+![Loading](imgs/SMC.png)
 
-### 2.1 GMC 1 [Jeddah Ground West]
+### 2.1 SMC 1 [Jeddah Ground West]
 Jeddah Ground West covers western side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron 8 [Royal Apron]
@@ -30,28 +30,28 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 
 ::::info Bandbox Position
 
-**Jeddah Ground West [OEJN_1_GND]** is the Bandbox Position for ground operations at King Abdulaziz International Airport. This means that when other Ground Movement Control (GMC) positions are offline, OEJN_1_GND is responsible for controlling all aprons and taxiways.
+**Jeddah Ground West [OEJN_1_GND]** is the Bandbox Position for ground operations at King Abdulaziz International Airport. This means that when other Ground Movement Control (SMC) positions are offline, OEJN_1_GND is responsible for controlling all aprons and taxiways.
 
 ::::
 
-![Loading](imgs/gmc1.png)
+![Loading](imgs/SMC1.png)
 <div className="center-align">
   <p>*Figure 2.1.1 - Jeddah Ground West AOR*</p>
 </div>
 
-### 2.2 GMC 2 [Jeddah Ground East]
+### 2.2 SMC 2 [Jeddah Ground East]
 
 **Jeddah Ground East [OEJN_2_GND]** covers eastern side of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
 - Apron A,C [Terminal 1]
 - Apron 12 [Military Apron]
 
-![Loading](imgs/gmc2.png)
+![Loading](imgs/SMC2.png)
 <div className="center-align">
   <p>*Figure 2.1.2 - Jeddah Ground East AOR*</p>
 </div>
 
-### 2.3 GMC 3 [Jeddah Ground Center]
+### 2.3 SMC 3 [Jeddah Ground Center]
 
 **Jeddah Ground Center [OEJN_3_GND]** covers central part of the aerodrome which includes the following aprons and its assoicasted taxiways:
 
@@ -61,7 +61,7 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 - Apron 14 [Royal Hanger]
 - Apron 11 [Hanger]
 
-![Loading](imgs/gmc3.png)
+![Loading](imgs/SMC3.png)
 <div className="center-align">
   <p>*Figure 2.1.3 - Jeddah Ground Center AOR*</p>
 </div>
@@ -69,16 +69,16 @@ Jeddah Ground West covers western side of the aerodrome which includes the follo
 ### 2.4 Standard Connection Hierarchy 
 Controllers must log in the following order to maintain realizm and follow SOPs: 
 
-- GMC 1 [OEJN_1_GND]
+- SMC 1 [OEJN_1_GND]
 - GMP [OEJN_DEL]
-- GMC 2 [OEJN_2_GND]
-- GMC 3 [OEJN_3_GND]
+- SMC 2 [OEJN_2_GND]
+- SMC 3 [OEJN_3_GND]
 
  This hierarchy of connection must always be followed unless ATS staff explictly permit you to do otherwise.
 
 ### 2.5 Splitting Positions
 
-If GMC 1 and GMC 2 are online without GMC 3, GMC 1 must cover the west side of the aerodrome while GMC 2 must cover the east side of the aerodrome (Split at Runway 34C).
+If SMC 1 and SMC 2 are online without SMC 3, SMC 1 must cover the west side of the aerodrome while SMC 2 must cover the east side of the aerodrome (Split at Runway 34C).
 
 Other then that, refer to the figures above to find the designated areas of responsiblity when all controllers are online. 
 
@@ -96,7 +96,7 @@ Aircraft transferred from the Ground Movement Planner (GMP) should be fully prep
 
 However, if an aircraft requesting pushback is not using the correct transponder code, they must be instructed to squawk the correct code before moving.
 
-Aircraft are issued pushback clearances by the GMC controlling the respective apron that the aircraft is parking at.
+Aircraft are issued pushback clearances by the SMC controlling the respective apron that the aircraft is parking at.
 
 The pushback direction is based primarily on aircraft location, runway configuration and the apron's flow direction.
 
@@ -143,7 +143,7 @@ To remember the colors, remember that taxiways K**B** and L**B** are blue since 
 
 Pushback on the colored lines should be given in the following phrasesolgy:
 
-> GMC: SVA123, Push & Start approved, face south on the blue line.
+> SMC: SVA123, Push & Start approved, face south on the blue line.
 
 ::::info Do note
 
@@ -315,13 +315,13 @@ It also the ground controller's responsiblity to beware of these ATRs and be cau
 #####  3.2.4.1 34 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M4A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to GMC 2 |
-|           M6A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to GMC 2 |
-|           M7A          | 34R    |  M, S, L **Hold Short of MA** | AIR 2 to GMC 2 |
-|           M7B          | 34R    |    M, R **Hold Short of J**   | AIR 2 to GMC 3 |
-|           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to GMC 1 |
-|           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to GMC 1 |
-|           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to GMC 1 |
+|           M4A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
+|           M6A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
+|           M7A          | 34R    |  M, S, L **Hold Short of MA** | AIR 2 to SMC 2 |
+|           M7B          | 34R    |    M, R **Hold Short of J**   | AIR 2 to SMC 3 |
+|           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to SMC 1 |
+|           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to SMC 1 |
+|           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to SMC 1 |
 <div className="center-align">
   <p>*Table 3.2.5 - 34 Arrival Taxi Routes*</p>
 </div>
@@ -335,11 +335,11 @@ All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
 #####  3.2.4.2 16 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M5A         | 16L    | M  **Hold Short of MB**  | AIR 2 to GMC 2 |
-|           M3A          | 16L    | M **Hold Short of MD**  | AIR 2 to GMC 2 |
-|           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to GMC 1 |
-|           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to GMC 1 |
-|           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to GMC 1 |
+|           M5A         | 16L    | M  **Hold Short of MB**  | AIR 2 to SMC 2 |
+|           M3A          | 16L    | M **Hold Short of MD**  | AIR 2 to SMC 2 |
+|           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to SMC 1 |
+|           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to SMC 1 |
+|           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to SMC 1 |
 <div className="center-align">
   <p>*Table 3.2.6 - 16 Arrival Taxi Routes*</p>
 </div>
@@ -357,7 +357,7 @@ All Traffic Movements on B must give way to traffic vacating runway 34L/16R.
 
 #### 3.2.5  Arrival Taxi Procedures
 ##### 3.2.5.1 General Arrival Taxi Procedures
-GMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
+SMC 1 should promptly assign a stand to an aircraft as soon as it appears on the arrival list using the stand assigner in the sectorfile . This enables the Tower controller to clear the aircraft to the appropriate vacating point, allowing them to follow the Arrival Taxi Procedures outlined below. It also allows the Tower controller to assign the correct Arrival Taxi Route (ATR) to the aircraft once it has vacated the runway.
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow the designated ATR and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 

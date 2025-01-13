@@ -44,7 +44,7 @@ Pilgrims embarking on Hajj or Umrah can enter Saudi Arabia through either Medina
 
 ## Air Traffic Services
 
-**King Abdulaziz International Airport (OEJN)** is a fully controlled airport.
+**Prince Mohammed International Airport (OEMA)** is a fully controlled airport.
 
 ### Airspaces
 

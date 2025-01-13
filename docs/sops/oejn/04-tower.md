@@ -17,7 +17,7 @@ The Jeddah Air Control (AIR) is responsible for all aerodrome movements on runwa
 
 ##  2. Designated Area of Responsibility
 **King Abdulaziz International Airport (OEJN)** features two primary AIR positions, namely **AIR 1**, and **AIR 2**. The responsibilities and areas of control for each position are outlined as follows:
-![Loading](imgs/gmc.png)
+![Loading](imgs/SMC.png)
 <div className="center-align">
 <div className="center-align">
   <p>*Figure 2.1 - Aerodrome DAOR*</p>
@@ -79,7 +79,7 @@ The hierarchy of responsibility for determining the runway configuration is outl
  - AIR 1
  - APP
  - CTR
- - GMC 1
+ - SMC 1
  - GMP
 
  ::::tip Do note
@@ -249,13 +249,13 @@ AIR: *SVA123, Follow the M6A Arrival Taxi Route, Contact Ground 121.600*
 #####  4.2.2.1. 34 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M4A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to GMC 2 |
-|           M6A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to GMC 2 |
-|           M7A          | 34R    |  M, S, L **Hold Short of MA** | AIR 2 to GMC 2 |
-|           M7B          | 34R    |    M, R **Hold Short of J**   | AIR 2 to GMC 3 |
-|           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to GMC 1 |
-|           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to GMC 1 |
-|           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to GMC 1 |
+|           M4A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
+|           M6A          | 34R    | M, MA, L **Hold Short of V**  | AIR 2 to SMC 2 |
+|           M7A          | 34R    |  M, S, L **Hold Short of MA** | AIR 2 to SMC 2 |
+|           M7B          | 34R    |    M, R **Hold Short of J**   | AIR 2 to SMC 3 |
+|           B3A          | 34L    |     B **Hold Short of B5**    | AIR 1 to SMC 1 |
+|           B5A          | 34L    | D5, D3-W **Hold Short of B5** | AIR 1 to SMC 1 |
+|           B5B          | 34L    |     B **Hold Short of D6**    | AIR 1 to SMC 1 |
 <div className="center-align">
   <p>*Table 4.2.1 - 34 Arrival Taxi Routes*</p>
 </div>
@@ -269,11 +269,11 @@ All Traffic Movements on M must give way to traffic vacating runway 34R/16L.
 #####  4.2.2.2. 16 Arrival Taxi Routes
 | **Arrival Taxi Route** | Runway |       Taxi Instructions       |     Handoff    |
 |:----------------------:|--------|:-----------------------------:|:--------------:|
-|           M5A         | 16L    | M  **Hold Short of MB**  | AIR 2 to GMC 2 |
-|           M3A          | 16L    | M **Hold Short of MD**  | AIR 2 to GMC 2 |
-|           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to GMC 1 |
-|           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to GMC 1 |
-|           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to GMC 1 |
+|           M5A         | 16L    | M  **Hold Short of MB**  | AIR 2 to SMC 2 |
+|           M3A          | 16L    | M **Hold Short of MD**  | AIR 2 to SMC 2 |
+|           B4A         | 16R    |  B **Hold Short of R** | AIR 1 to SMC 1 |
+|           B2A          | 16R    |   B **Hold Short of B1**   | AIR 1 to SMC 1 |
+|           B2B          | 16R    |     B, T, C **Hold Short of S**    | AIR 1 to SMC 1 |
 <div className="center-align">
   <p>*Table 4.2.2 - 16 Arrival Taxi Routes*</p>
 </div>
@@ -320,6 +320,37 @@ A go-around occurs when an aircraft aborts its landing during the final approach
 
 ---
 
+###  4.3 Parallel Runway Simultaneous Operations
+
+#### 4.3.1 Independent Parallel Instrument Approaches (Mode 1)
+
+Simultaneous Independent Parallel Approaches are operational between 1100-1900z.
+UTC daily to optimize runway utilization and enhance air traffic efficiency.
+
+To ensure safe operations between aircraft on the parallel approaches, Normal Operating Zones (NOZ) are established for each extended runway centerline and a No Transgression Zone (NTZ) is established between the NOZs.
+
+
+The applicable instrument approach procedures for Simultaneous Independent Parallel Approaches at Jeddah king Abdulaziz
+International Airport are as follows.
+OEJN ILS Z RWY 34R OEJN ILS RWY 34L
+OEJN ILS Z RWY 16R OEJN ILS Z RWY 16L
+
+#### 4.3.2 Dependent Parallel Instrument Approaches (Mode 2)
+Simultaneous Fependent Parallel Approaches are operationa.
+
+The applicable instrument approach procedures for Simultaneous Dependent Parallel Approaches at Jeddah king Abdulaziz
+
+OEJN ILS RWY 34L OEJN ILS RWY 34C
+OEJN ILS RWY 16R OEJN ILS RWY 16C
+
+#### 4.3.3 Independent Instrument Departures for Parallel Runways (Mode 3)
+Simultaneous Independent Parallel Departures will be operational from 12 January 2025 until 16 April 2025, between 1100-1900
+UTC daily to optimize runway utilization and enhance air traffic efficiency.
+• The design of RNAV SIDs permits Simultaneous Independent Parallel Departures in compliance with DOC 9613 requirements.
+• Simultaneous Independent Parallel Departures will be conducted from runways 34R & 34C, or 34R & 34L, or 16R & 16L. Pilots
+must adhere strictly to the published initial climb segments.
+
+---
 ###  4.3 VFR procedures
 ::::caution Do note. 
 
@@ -327,7 +358,10 @@ VFR is only allowed at daytime. Night VFR is not permitted in the Jeddah Control
 ::::
 
 #### 4.3.1. Visual Reporting Points (VRPs)
-There are Visual Report points in Jeddah which are blah blah blah. they are the following
+**Visual Report Points (VRPs)** are specific geographical locations used in aviation to assist pilots in navigation and communication with air traffic control. These points help pilots maintain situational awareness and provide reference points for reporting their position during flight.
+
+VRPs are typically marked by prominent landmarks, such as buildings, intersections, or natural features, making them easily identifiable from the air. They are particularly useful in busy airspace, allowing pilots to report their locations accurately, which helps air traffic controllers manage traffic effectively and ensure safety.
+
 | **Ident** |                                                            **Name**                                                            | **Bearing and Distance** | **Coordinates** |
 |:---------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------:|:---------------:|
 | **VRP01** |                                                  University of Jeddah (North)                                                  |  RDL 032 from JDW 13.0NM |    215322.9N 0391525.9E    |

@@ -48,7 +48,7 @@ const config: Config = {
         // Replace with your project's social card
         // image: "img/docusaurus-social-card.jpg",
         navbar: {
-            title: "VATSIM Saudi Arabia",
+            title: "Saudi Arabian vACC",
             logo: {
                 alt: "My Site Logo",
                 src: "assets/logo.png",
@@ -136,7 +136,7 @@ const config: Config = {
                     ],
                 },
             ],
-            copyright: `Copyright © 2024 VATSIM Saudi Arabia.`,
+            copyright: `Copyright © 2025 VATSIM Saudi Arabia.`,
         },
         prism: {
             theme: prismThemes.github,

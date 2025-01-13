@@ -1,5 +1,7 @@
 ---
 title: "[DEL] Delivery"
+toc_min_heading_level: 2
+toc_max_heading_level: 5
 ---
 # Jeddah Clearance [OEJN_DEL]
 
@@ -70,9 +72,9 @@ GMP must always issue RNAV SIDs unless needed otherwise.
 | **Exit Points** | **EGREP** | **DATAP** | **MIGDA** | **BOMOX** | **KAROX** | **RIBAM** | **EGPOB** | **ISLAM** |
 | :-------------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 |     **34L**     |    2X     |    2X     |    2X     |    2X     |    2X     |    2X     |    2X     |    2X     |
-|     **34R**     |    2V     |    2V     |    2V     |    2V     |    2V     |    2V     |    2V     |    2V     |
+|     **34R**     |    3V     |    3V     |    3V     |    3V     |    3V     |    3V     |    3V     |    2V     |
 |     **34C**     |    2W     |    2W     |    2W     |    2W     |    2W     |    2W     |    2W     |    2W     |
-|     **16L**     |    2D     |    2D     |    2D     |    2D     |    2D     |    2D     |    2D     |    2D     |
+|     **16L**     |    3D     |    3D     |    3D     |    3D     |    3D     |    3D     |    3D     |    2D     |
 |     **16R**     |    1F     |    1F     |    1F     |    1F     |    1F     |    1F     |    1F     |    1F     |
 |     **16C**     |    1E     |    1E     |    1E     |    1E     |    1E     |    1E     |    1E     |    1E     |
 
@@ -85,42 +87,26 @@ In Jeddah, regardless of the specific SID chosen, all departures should be assig
 
 #### 2.2.2.2 Radar Departures
 
-King Abdulaziz International Airport (OEJN) offers six radar departures as shown below.
+King Abdulaziz International Airport (OEJN) **NO LONGER HAS ANY RADAR DEPARTURES**
 
-It is important to note that these radar departures should only be utilized when necessary, and their usage requires coordination with APP.
+#### 2.2.2.3 Omni-Directional Departures
 
-                                                    |   Runway        | Radar Departure|
-                                                    | :-------------: | :-------: |
-                                                    |     **34L**     |    JEDDAH1C     | 
-                                                    |     **34R**     |    JEDDAH1A     | 
-                                                    |     **34C**     |    JEDDAH1B     |  
-                                                    |     **16L**     |    JEDDAH1D     | 
-                                                    |     **16R**     |    JEDDAH1E     |
-                                                    |     **16C**     |    JEDDAH1F     |
+::::danger Do Note.
 
-::::info Coordination For Radar Departures
-
-
-SVA123 is requesting JEDDAH1B due to outdated AIRAC. GMP must call APP via VCCS to coordinate
-
-> **GMP:** _Calls APP via VCCS_
-
-> **APP:** _Accepts call from GMP_
-
-> **GMP -> APP:** _APP, SVA123 is an A320 requesting JEDDAH1B._
-
-> **APP -> GMP:** _GMP, Copied._
-
-
-
-::::tip
-When giving Radar Departures, type **"RDEP"** in the scratch pad so upper controllers don't forget and you too!
+Omni-Directional Departures must only be used in the case of an aircraft which has an old AIRAC or as instructed by TWR/APP.
 ::::
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![Loading...](imgs/jed1a.png)
-‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ _Table 1.2 - Radar Departures_
+GMP may use the following phrasesolgy to issue Omni-Directional departures to traffic.
+
+
+> **GMP:** _SVA123, Cleared Dammam as filed, Omni-Directional Departure, Runway 34R, Initial Climb 6000ft, SQWK XXXX_
+
+::::tip
+When giving Omni-Directional Departures, type **"OMNI"** in the scratch pad so upper controllers don't forget and you too!
+::::
 
 ---
+
 
 ### 2.2.3 Rerouting Traffic
 

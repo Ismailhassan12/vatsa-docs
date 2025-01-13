@@ -12,7 +12,7 @@ function Header() {
     return (
         <div className={styles.videoContainer}>
         <video className={`${styles.video} ${styles.blur}`} autoPlay loop muted disablePictureInPicture disableRemotePlayback playsInline>
-            <source src="https://cdn.vatsimsa.com/files/vid1.mp4" type="video/mp4" />
+            <source src="https://cdn.vatsimsa.com/files/vid3.mp4" type="video/mp4" />
         </video>
     
         <div className={styles.videoContainerContent}>

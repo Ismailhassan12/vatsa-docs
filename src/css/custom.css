@@ -49,3 +49,29 @@ h5 {
 h6 {
     font-size: 18px; /* Adjust the value as per your preference */
   }
+
+.footer {
+    background-color: #333; /* Change this color value to the desired color */
+    color: white; /* Change text color if needed */
+    padding: 20px; /* Add padding for better spacing */
+}
+
+.navbar {
+    background-color: #303831; /* Change this color value to the desired color */
+    color: white; /* Change text color if needed */
+}
+
+@media (prefers-color-scheme: light) {
+    /* Target the navbar text in light mode */
+    .navbar a {
+      color: #333; /* Change the text color to your desired color for light mode */
+    }
+  }
+  
+  /* Dark mode */
+  @media (prefers-color-scheme: dark) {
+    /* Target the navbar text in dark mode */
+    .navbar a {
+      color: #fff; /* Change the text color to your desired color for dark mode */
+    }
+  }
