@@ -10,13 +10,13 @@ This section details all the necessary Standard Operating Procedures for Deliver
 
 ::::caution Do Note
 
-**King Fahd International Airport (OEDF)** does **NOT** have a GMP position. The Ground Movement Planner (GMP) operations are handled by GMC 1.
+**King Fahd International Airport (OEDF)** does **NOT** have a GMP position. The Ground Movement Planner (GMP) operations are handled by SMC 1.
 
-During periods of high traffic, the authority to issue clearances may be delegated to GMC 2.
+During periods of high traffic, the authority to issue clearances may be delegated to SMC 2.
 
 ::::danger Don't get confused!
 
-In this section, GMP (Ground Movement Planner) will be used to refer to Dammam Ground (GMC 1).
+In this section, GMP (Ground Movement Planner) will be used to refer to Dammam Ground (SMC 1).
 
 ::::
 

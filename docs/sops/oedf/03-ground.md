@@ -12,13 +12,13 @@ NOT FULLY DETAILED. USE AS QRH.
 
 **Dammam Ground (OEJN_1_GND)** is responsible for controlling the aerodrome's aprons and taxiways.
 
-**King Fahd International Airport (OEDF)** features two primary Ground Movement Control (GMC) positions, namely **GMC 1** and **GMC 2**. The responsibilities and areas of control for each position are outlined as follows:
+**King Fahd International Airport (OEDF)** features two primary Ground Movement Control (SMC) positions, namely **SMC 1** and **SMC 2**. The responsibilities and areas of control for each position are outlined as follows:
 
 ![Loading](imgs/aor.png)
 
 # 2. Push-back Procedures
 
-Aircraft are issued pushback clearances by the GMC controlling the respective apron that the aircraft is parking at.
+Aircraft are issued pushback clearances by the SMC controlling the respective apron that the aircraft is parking at.
 
 Pushback direction is based primarily on aircraft location, runway configuration and the apron's flow directiom.
 
