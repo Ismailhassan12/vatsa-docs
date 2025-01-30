@@ -67,5 +67,5 @@ The airport is one of the busiest in the country and features a modern terminal 
 |:------------------:|:------------:|:---------------:|:----------------------------------------------:|:---------------------------:|
 | **Delivery [DEL]** |    01/2025   | Initial Release |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
 |  **Ground [GND]**  |    01/2025   | Initial Release |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
-|   **Tower [TWR]**  |    01/2025   | Initial Release | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
+|   **Tower [TWR]**  |   -- | --| Ismail Hassan - ACCSA1 |  --  |
 | **Approach [APP]** |      --      |        --       |                       --                       |              --             |

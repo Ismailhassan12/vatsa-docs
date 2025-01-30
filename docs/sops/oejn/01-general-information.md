@@ -83,4 +83,4 @@ King Abdulaziz International Airport is a major hub for Saudia, the Saudi flag c
 | **Delivery [DEL]** |    01/2025   | Removed Radar Departure, Updated SIDs, Added Omni-Directional Procedures, Minor Changes |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
 |  **Ground [GND]**  |    01/2025   | Updated all GMC references to SMC,  |             Ismail Hassan - ACCSA1             |    Ismail Hassan - ACCSA1   |
 |   **Tower [TWR]**  |    01/2025   | Added Independent Parallel Approaches/Departure Procedure, Minor Changes | Ismail Hassan - ACCSA1 |    Ismail Hassan - ACCSA1   |
-| **Approach [APP]** |      --      |        --       |                       --                       |              --             |
+| **Approach [APP]** |    01/2025    |  Initial Release  |              Ismail Hassan - ACCSA1                    |        Ismail Hassan - ACCSA1           |
