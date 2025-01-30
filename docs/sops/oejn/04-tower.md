@@ -319,38 +319,6 @@ A go-around occurs when an aircraft aborts its landing during the final approach
 ::::
 
 ---
-
-###  4.3 Parallel Runway Simultaneous Operations
-
-#### 4.3.1 Independent Parallel Instrument Approaches (Mode 1)
-
-Simultaneous Independent Parallel Approaches are operational between 1100-1900z.
-UTC daily to optimize runway utilization and enhance air traffic efficiency.
-
-To ensure safe operations between aircraft on the parallel approaches, Normal Operating Zones (NOZ) are established for each extended runway centerline and a No Transgression Zone (NTZ) is established between the NOZs.
-
-
-The applicable instrument approach procedures for Simultaneous Independent Parallel Approaches at Jeddah king Abdulaziz
-International Airport are as follows.
-OEJN ILS Z RWY 34R OEJN ILS RWY 34L
-OEJN ILS Z RWY 16R OEJN ILS Z RWY 16L
-
-#### 4.3.2 Dependent Parallel Instrument Approaches (Mode 2)
-Simultaneous Fependent Parallel Approaches are operationa.
-
-The applicable instrument approach procedures for Simultaneous Dependent Parallel Approaches at Jeddah king Abdulaziz
-
-OEJN ILS RWY 34L OEJN ILS RWY 34C
-OEJN ILS RWY 16R OEJN ILS RWY 16C
-
-#### 4.3.3 Independent Instrument Departures for Parallel Runways (Mode 3)
-Simultaneous Independent Parallel Departures will be operational from 12 January 2025 until 16 April 2025, between 1100-1900
-UTC daily to optimize runway utilization and enhance air traffic efficiency.
-• The design of RNAV SIDs permits Simultaneous Independent Parallel Departures in compliance with DOC 9613 requirements.
-• Simultaneous Independent Parallel Departures will be conducted from runways 34R & 34C, or 34R & 34L, or 16R & 16L. Pilots
-must adhere strictly to the published initial climb segments.
-
----
 ###  4.3 VFR procedures
 ::::caution Do note. 
 

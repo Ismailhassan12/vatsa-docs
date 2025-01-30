@@ -9,14 +9,14 @@ This section details all the necessary Standard Operating Procedures for Approac
 
 ---
 
-##  1. General Provisions
+## 1. General Provisions
 
 **Jeddah Approach Control (APP/FIN)** is tasked with handling the arrival and departure of aircraft at **King Abdulaziz International Airport** within the **Terminal Manevouring Area (TMA)**. Their responsibility includes maintaining adequate spacing and order to ensure safe and efficient operations.
 
 ---
 
 
-##   2. Airspace
+## 2. Airspace
 
 The **Jeddah Terminal Manevouring Area (TMA)** is an airspace classified as Class C that reaches up to FL195. This airspace encompasses the entirety of Jeddah city and the adjacent mountainous region within a 60 nautical mile radius.
 
@@ -137,7 +137,7 @@ The transitional layer in the Jeddah TMA is between 13000ft and FL150.
 
 ---
 
-##  3.  ATS Positions
+## 3. ATS Positions
 
 The following are the ATS Positions relevant to this document. They will be subsequently denoted by their stated abbreviations.
 
@@ -191,7 +191,7 @@ Controllers must log in the following order to maintain realizm and follow SOPs:
 
 ---
 
-## 5.  General Separation Minimas
+## 5. General Separation Minimas
 ### 5.1 Surveillance-Based Separation
 Unless specified in 6.1.6.1, aircraft flying within the Jeddah TMA must maintain a horizontal separation of at least **3 nautical miles**. If this distance cannot be achieved, a minimum vertical separation of **1000 feet** should be maintained.
 
@@ -205,7 +205,7 @@ The correct Wake Turbulence Separation (WTS) minimum must always be enforced bet
 * When an aircraft is crossing behind another aircraft at the same altitude or less than 1000 feet below.
 ---
 
-##   6. Procedures
+## 6. Procedures
 The below procedures are considered as standard and no coordination is required to employ them, except where explicitly required.
 
 ::::caution 
@@ -326,11 +326,11 @@ If you would like to chenge the descend from via the STAR you can use the phrase
 ######  6.1.4.1.1   34 Configuration - Right Downwind (34R)
 
 | **Arrival** | **Descend Procedure**                                                                                                                                                                                                                                              | **Additional Notes**                                                               |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+|:-------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------:|
 | **VEMEM2N** | **CTR 2:** FL190 by VEMEM<br />**APP 1:** FL170 on the sequencing leg<br />**APP 1:** FL150<br />**APP 1:** Leaving IMDAP, 13000ft<br />**APP 1:** 9000ft by OBTUG<br />**APP 1:** 7000ft by PUSPO, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2. |FL160 can be given as appropriate in the PTM. |
 | **MOVUL2N** | **CTR 1:** FL190 by MOVUL<br />**APP 1:** FL170 on the sequencing leg<br />**APP 1:** 13000ft by GINKU<br />**APP 1:** Leaving GINKU, 7000ft by PUSPO, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                     | |
 | **MISAM2N** | **CTR 2:** FL170/FL150 by MISAM<br />**APP 1:** FL150 on the sequencing leg<br />**APP 1:** Leaving IMDAP, 13000ft<br />**APP 1:** 9000ft by OBTUG<br />**APP 1:** 7000ft by PUSPO, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                     |                        |
-| **NOMDA2N** | **CTR 1:** FL190 by NOMDA<br />**APP 1:** FL170 on the sequencing leg<br />**APP 1:**FL150<br />**APP 1:** Leaving NIVGO, 13000ft<br />**APP 1:** 9000ft by OBTUG<br />**APP 1:** 7000ft by PUSPO, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2. |                                                                                    |
+| **NOMDA2N** | **CTR 1:** FL190 by NOMDA<br />**APP 1:** FL170 on the sequencing leg<br />**APP 1:** FL150<br />**APP 1:** Leaving NIVGO, 13000ft<br />**APP 1:** 9000ft by OBTUG<br />**APP 1:** 7000ft by PUSPO, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2. |                                                                                    |
 | **EGMEG2N** | **CTR 1:** FL170/FL190 by EGMEG<br />**APP 1:** FL170<br />**APP 1:** Leaving ULULU, 10000ft<br />**APP 1:** Leaving JN917, 8000ft<br />**APP 1:** 7000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                 |                                                                                    |
 | **BOSUT2N** | **CTR 1:** 13000ft by BOSUT<br />**APP 1:** 10000ft <br />**APP 1:** 6000ft, Handoff to APF E<br />Further with **APF E**. Refer to Section 6.1.4.2.                                                                                                               |                                                                                    |
 | **ULULU2NxIMLER1N** | **CTR 1:** 13000ft by BOSUT<br />**APP:** Clearance for ULULU2N via IMLER1N.<br /> **APP 1:** 13000ft by ULULU<br />**APP 1:** Leaving ULULU, 10000ft<br />**APP 1:** 8000ft <br />**APP 1:** Leaving JN920, 7000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                                        | _IMLER1N Transition_ <br />Holds over ULULU as necessary for sequencing.                                      |                                                                                                                                                                   
@@ -341,7 +341,7 @@ If you would like to chenge the descend from via the STAR you can use the phrase
 ######  6.1.4.1.2  34 Configuration - Left Downwind (34L)
 
 | **Arrival** | **Descend Procedure**                                                                                                                                                                                                                                                                                                               | **Additional Notes**                                                                                                                              |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **VEMEM2L** | **CTR 2:** FL190 by VEMEM<br />**APP 1:** FL170<br />**APP 1:** Leaving RABEP, FL150<br />**APP 1:** Leaving IMDAP, 11000ft<br />**APP 1:** 11000ft by OBTUG<br />**APP 1:** Leaving OBTUG, 7000ft<br />**APP 1:** Past Midfield and clear of the DEPs, 6000ft, Handoff to APF W<br /><br />Further with **APF W**. Refer to Section 6.1.4.2. | FL160 can be given as appropriate in the PTM.                                                                                                     |
 | **MOVUL2L** | **CTR 1:** FL190 by MOVUL<br />**APP 1:** FL170<br />**APP 1:** FL150<br />**APP 1:** 10000ft by GINKU <br />**APP 1:** 8000ft<br />**APP 1:** 6000ft, Handoff to APF W by TOTNU<br /><br /><br /><br />Further with **APF W**. Refer to Section 6.1.4.2.                                                                                       |                                                                                                                                                   |
 | **MISAM2L** | **CTR 2:** FL170/FL150 by MISAM<br />**APP 1:** FL150 on the sequencing leg<br />**APP 1:** 13000ft<br />**APP 1:** 11000ft by OBTUG<br />**APP 1:** Leaving OBTUG, 7000ft<br />**APP 1:** Past Midfield and clear of the DEPs, 6000ft, Handoff to APF W<br /><br /><br />Further with **APF W**. Refer to Section 6.1.4.2.                   |                                                                                                                                                   |
@@ -357,7 +357,7 @@ If you would like to chenge the descend from via the STAR you can use the phrase
 ######  6.1.4.1.3  16 Configuration - Left Downwind (16L)
 
 | **Arrival**         | **Descend Procedure**                                                                                                                                                                                                                                                                                       | **Additional Notes**                                                                                                                                                               |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:---------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **VEMEM2S**         | **CTR 2:** FL150 by VEMEM<br />**APP 1:** 13000ft<br />**APP 1:** 10000ft by IMDAP<br />**APP 1:** Leaving IMDAP, 6000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                                                                                         |                                                                                                                                                                                    |
 | **MOVUL2S**         | **CTR 2:** FL150 by MOVUL<br />**APP 1:** 13000ft<br />**APP 1:** 11000ft/7000ft<br />**APP 1:** 5000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                                                                                                          |                                                                                                                                                                                    |
 | **MISAM2S**         | **CTR 2:** 13000ft by MISAM<br />**APP 1:** 11000ft on the sequencing leg<br />**APP 1:** 10000ft by IMDAP<br />**APP 1:** Leaving IMDAP, 6000ft, Handoff to APF E<br /><br />Further with **APF E**. Refer to Section 6.1.4.2.                                                                                 |                                                                                                                                                                                    |
@@ -369,13 +369,28 @@ If you would like to chenge the descend from via the STAR you can use the phrase
   <p>*Table 3.1 - Descent Profile - Left Downwind (16L)*</p>
 </div>
 
+######  6.1.4.1.4  16 Configuration - Right Downwind (16R)
+
+|     **Arrival**     |                                                                                                                 **Descend Procedure**                                                                                                                |                                                                                        **Additional Notes**                                                                                       |
+|:-------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **VEMEM2R**         | **CTR 2:** FL150 by VEMEM<br />**APP 1:** 13000ft on the sequencing leg<br />**APP 1:** 10000ft by IMDAP<br />**APP 1:** 8000ft<br />**APP 1:** 6000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2.                                                    |                                                                                                                                                                                                   |
+| **MOVUL2R**         | **CTR 2:** FL150 by MOVUL<br />**APP 1:** 13000ft<br />**APP 1:** 11000ft/6000ft<br />**APP 1:** 4000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2.                                                                                             |                                                                                                                                                                                                   |
+| **MISAM2R**         | **CTR 2:** 13000ft by MISAM<br />**APP 1:** 11000ft on the sequencing leg<br />**APP 1:** 10000ft by IMDAP<br />**APP 1:** 8000ft<br />**APP 1:** 6000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2.                                                  |                                                                                                                                                                                                   |
+| **NOMDA2R**         | **CTR 1:** FL150 by NOMDA<br />**APP 1:** 13000ft on the sequencing leg<br />**APP 1:** 11000ft<br />**APP 1:** 6000ft, Handoff to APF W by NABGI<br /><br />Further with APF W. Refer to Section 6.1.4.2.                                                                     |                                                                                                                                                                                                   |
+| **EGMEG2R**         | **CTR 1:** FL150 by EGMEG<br />**APP 1:** 13000ft<br />**APP 1:** 8000ft<br />**APP 1:** Past Midfield/Clear of DEPs 6000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2.                                                                         |                                                                                                                                                                                                   |
+| **BOSUT2R**         | **CTR 1:** FL190<br />**APP 1:** FL150<br />**APP 1:** 11000ft<br />**APP 1:** 8000ft till GEVUS<br />**APP 1:** 6000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2.                                                                                   |                                                                                                                                                                                                   |
+| **ULULU2RxIMLER1R** | **CTR 1:** FL190 at BOSUT<br />**APP 1:** Clearance for ULULU2R Via IMLER1R Transition<br />**APP 1:** FL160<br />**APP 1:** 12000ft<br />**APP 1:** 8000ft<br />APP 1: Past Midfield/Clear of DEPS, 6000ft, Handoff to APF W<br /><br />Further with APF W. Refer to Section 6.1.4.2. | IMLER1R Transition<br />Cleared for the BOSUT2R by CTR<br />Holds over ULULU as necessary for sequencing<br />If the traffic will be entering the holding, descend to the MHA (9000) or as appropriate  |
+
+<div className="center-align">
+  <p>*Table 3.1.1 - Descent Profile - Right Downwind (16R)*</p>
+</div>
+
 #####   6.1.4.2	Final Segment of the STAR
 The Downwind till final of the star is defined as the final segment. This part of the star is with the appropriate APF Controller.
 
 ::::caution Do note
 The final segment of the STAR descend profile is really variable depending on the sequence's leg, the amount of traffic, and much more. Use this as the standard profile but adjust as appriorpraite ensuring separation requirmenets are met
 ::::
-
 
 ######   6.2.4.2.1 34s Configuration - Downwind - Suggested Descents
 
@@ -405,34 +420,20 @@ This may be adjusted to accommodate more traffic during high traffic operations.
 This may be adjusted to accommodate more traffic during high traffic operations.
 ::::
 
-####   6.1.5 Final Approach Sequencing
+####    6.1.5 Lateral Profile
+#####   6.1.5.1 Standard Shortcuts'
+When provided by APP 1, direct routings/shortcuts for arrivals in any configuration should only lead to a merge point when employing a point-to-merge system, or to one of the downwind fixes for sequencing in coordination with the respective APF controller.
 
-
-#####   6.1.5.1 Standard Vectors
-
-| **Runway** | **Base Leg** | **Intercepting Vector** |
-|:----------:|:------------:|:-----------------------:|
-|   **34L**  |      070     |      010 (340-010)      |
-|   **34R**  |      250     |     310 (340 - 310)     |
-|   **16L**  |      250     |      190 (160-190)      |
-|   **16R**  |      070     |      130 (160-130)      |
-<div className="center-align">
-  <p>*Table 3.4 - Standard Vectors*</p>
-</div>
-
-#####   6.1.5.2 Platform Altitudes
-
-| **Runway** | **Platform Altitude** |
-|:----------:|:---------------------:|
-|   **34L**  |          2700         |
-|   **34R**  |          2100         |
-|   **16L**  |          1700         |
-|   **16R**  |          2700         |
-<div className="center-align">
-  <p>*Table 3.5 - Platform Altitudes*</p>
-</div>
+#####   6.1.5.2 Sequencing/Horizontal Separation
+Traffic entering the downwind should be separated horizontally by a minimum of **7nm**.
 
 ####    6.1.6 Speed Control
+
+Aircraft should ideally be provided with speeds according to section 5.1 to ensure separation. If necessary for maintaining distance between aircraft, speeds within the appropriate range can be utilized, ensuring that maximum or minimum speeds for each segment are not exceeded.
+
+To ease the workload of controllers, aircraft may be directed to adhere to the specified speeds on the STAR.
+
+> Example: **“SVA499, MAINTAIN STAR SPEEDS”**
 
 |    **Arrival segment**    |                  **Recommend/Published Speed**                  | **Speed Range** |
 |:-------------------------:|:---------------------------------------------------------------:|:---------------:|
@@ -456,11 +457,33 @@ For aircraft on a straight-in approach from the initial STAR fix, speed control 
 
 In the TMA, higher speeds may be allowed if the aircraft does not anticipate turns exceeding a 30-degree course change in any arrival segment, and if the traffic volume and controller workload permit such speeds.
 
-####    6.1.7 Lateral Profile
-#####   6.1.7.1 Standard Shortcuts
+
+####    6.1.7 Final Approach Sequencing
 
 
+#####   6.1.7.1 Standard Vectors
 
+| **Runway** | **Base Leg** | **Intercepting Vector** |
+|:----------:|:------------:|:-----------------------:|
+|   **34L**  |      070     |      010 (340-010)      |
+|   **34R**  |      250     |     310 (340 - 310)     |
+|   **16L**  |      250     |      190 (160-190)      |
+|   **16R**  |      070     |      130 (160-130)      |
+<div className="center-align">
+  <p>*Table 3.4 - Standard Vectors*</p>
+</div>
+
+#####   6.1.7.2 Platform Altitudes
+
+| **Runway** | **Platform Altitude** |
+|:----------:|:---------------------:|
+|   **34L**  |          2700         |
+|   **34R**  |          2100         |
+|   **16L**  |          1700         |
+|   **16R**  |          2700         |
+<div className="center-align">
+  <p>*Table 3.5 - Platform Altitudes*</p>
+</div>
 
 ####    6.1.8 Independent Parallel Approaches (Mode 1)
 
@@ -470,7 +493,7 @@ In independent parallel approaches, significant attention is placed on the altit
 
 #####   6.1.8.1 Separation Requirements
 
-A vertical separation of 1000 feet must be maintained between aircraft until:
+A vertical separation of 1000 feet or 5nm horizontally must be maintained between aircraft until:
 
 * The aircraft is aligned with the Localizer/Inbound Course, and
 * Enters the Normal Operating Zone (NOZ).
@@ -522,6 +545,8 @@ When vectoring aircraft to intercept the ILS localizer course, the final vector 
 
 Additionally, there should be a minimum of **1.0NM** of straight and level flight before intercepting the ILS localizer course. The vectors should ensure that the aircraft is aligned with the ILS localizer course or MLS final approach track in level flight for at least **2NM** before intercepting the ILS glide path. 
 
+Traffic **MUST** be cleared on the localizer initially, then cleared to descend via the glide after entering the NOZ and on the correct localizer course.
+
 **This indicates that aircraft must be established on the localizers no later than:**
 
 | **Approach** |    **Altitude**    | **Established on the LOC Before** |
@@ -534,35 +559,192 @@ Additionally, there should be a minimum of **1.0NM** of straight and level fligh
   <p>*Table 3.8 - High/Low Side Altitudes*</p>
 </div>
 
-#####   6.1.8.4 Non Transgression Zone
-Since radar separation is not provided between traffic on adjacent extended runway centre lines in Mode 1 approaches, there must be an established means of determining when an aircraft deviates too far from the ILS localizer course or the MLS final approach track. This is achieved through the concept of the NTZ
+#####   6.1.8.4 Non Transgression Zone (NTZ)
+Since radar separation is not provided between traffic on adjacent extended runway centre lines in Mode 1 approaches, there must be an established means of determining when an aircraft deviates too far from the ILS localizer course or the MLS final approach track. This is achieved through the concept of the NTZ.
+
+<div className="center-align">
+![Loading](imgs/app-ntz.png)
+</div>
+<div className="center-align">
+  <p>*Figure 4.1 - NTZ/NOZ*</p>
+</div>
+
+######   6.1.8.4.1 Normal Operating Zone (NOZ)
+
+The Normal Operating Zone, illustrated in Figure 4.1, is the designated region near the localizer where an aircraft is considered secure and on its approach path. To enable independent parallel approaches, aircraft must remain within the NOZ.
+
+---
+
 ### 6.2 Departures Procedures
 ####    6.2.1 Climb Profile
-####    6.2.2 Speed Control
-####    6.2.3 Lateral Profile
-#####   6.2.3.1 Standard Shortcuts
-### 6.3 Separation
+#####    6.2.1.1 Climb Procedure - 34 Configuration
+| **Departure** |                                                                                        **Climb Procedure**                                                                                       |                                                             **Additional Notes**                                                             |
+|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **BOMOX2W**  |                                                    **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** Even levels up till FL200                                                   |                                                             Handoff Passing FL160                                                            |
+|  **MIGDA2W**  |                                                    **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** Even levels up till FL200                                                   |                                                             Handoff Passing FL160                                                            |
+|  **DATAP2W**  |                                    **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 12000ft till JN510/Clear of NOMDA ARRs<br />**APP:** FL160                                    |   Handoff Passing 13000ft<br />**If climb to 12000ft was given prior to JN510 and track miles permit, APP may issue even levels till FL200.**  |
+|  **EGREP2W**  |                                    **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 12000ft till JN520/Clear of NOMDA ARRs<br />**APP:** FL160                                    |   Handoff Passing 13000ft<br />**If climb to 12000ft was given prior to JN520 and track miles permit, APP may issue even levels till FL200.**  |
+|  **ISLAM2W**  |                                                            **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 12000ft                                                             |                                                          Handoff after clear of PTMs                                                         |
+|  **KAROX2W**  |                          **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 12000ft till JN610/Clear of NOMDA ARRs<br />**APP:** Even levels up till FL200                          |                                                             Handoff Passing FL160                                                            |
+|  **RIBAM2W**  | **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 8000ft till JN522/Clear of ULULU ARRs<br />**APP:** 12000ft till JN521/Clear of ULULU ARRs<br />**APP:** Even levels up till FL200 |                                                             Handoff Passing FL160                                                            |
+|  **EGPOB3V**  | **APP:** 6000ft till clear of the arrivals/till JN276<br />**APP:** 8000ft till JN522/Clear of ULULU ARRs<br />**APP:** 12000ft till JN521/Clear of ULULU ARRs<br />**APP:** Even levels up till FL200 |                                                             Handoff Passing FL160                                                            |
+|  **BOMOX3V**  |                             **APP:** 6000ft till clear of the arrivals/till RIBIL<br />**APP:** 12000ft till Clear of NOMDA ARRs<br />**APP:** Even levels up till FL200                             |                                                             Handoff Passing FL160                                                            |
+|  **MIGDA3V**  |                             **APP:** 6000ft till clear of the arrivals/till RIBIL<br />**APP:** 12000ft till Clear of NOMDA ARRs<br />**APP:** Even levels up till FL200                             |                                                             Handoff Passing FL160                                                            |
+|  **DATAP3V**  |                                            **APP:** 6000ft till clear of the arrivals/till RIBIL<br />**APP:** Even levels up till FL200 (Unrestricted)                                            |                                                             Handoff Passing FL160                                                            |
+|  **EGREP3V**  |                                            **APP:** 6000ft till clear of the arrivals/till RIBIL<br />**APP:** Even levels up till FL200 (Unrestricted)                                            |                                                             Handoff Passing FL160                                                            |
+|  **ISLAM3V**  |                                                            **APP:** 6000ft till clear of the arrivals/till JN236<br />**APP:** 12000ft                                                             |                                                          Handoff after clear of PTMs                                                         |
+|  **KAROX3V**  |                                                                 **APP:** 6000ft till JN236<br />**APP:** Even levels up till FL200                                                                 | Handoff Passing FL160 and clear of ARRs<br />**Traffic must be given the highest altitude (FL200) immediately after JN236 if traffic permits** |
+|  **RIBAM3V**  |                                                                 **APP:** 6000ft till JN236<br />**APP:** Even levels up till FL200                                                                 | Handoff Passing FL160 and clear of ARRs<br />**Traffic must be given the highest altitude (FL200) immediately after JN236 if traffic permits** |
+|  **EGPOB3V**  |                                                                 **APP:** 6000ft till JN236<br />**APP:** Even levels up till FL200                                                                 | Handoff Passing FL160 and clear of ARRs<br />**Traffic must be given the highest altitude (FL200) immediately after JN236 if traffic permits** |
+
+<div className="center-align">
+  <p>*Table 3.9 - Climb Procedure - 34 Configuration*</p>
+</div>
+
+####    6.2.2 Lateral Profile
+#####   6.2.2.1 Standard Shortcuts
+Direct routings can used as appropriate when traffic levels are low. 
+
+::::danger Do note
+THEY MUST NOT BE USED IN HIGH TRAFFIC SCENARIOS.
+::::
+
+#####   6.2.2.1.1 Standard Shortcuts - 34s Configuration
+| **Departure** | **Standard Shortcuts**                                        | **Additional Notes** |
+|---------------|---------------------------------------------------------------|----------------------|
+| **BOMOX2W**   | No direct routings permitted                                  |                      |
+| **MIGDA2W**   | No direct routings permitted                                  |                      |
+| **DATAP2W**   | Direct to JN510 if traffic permits                            |                      |
+| **EGREP2W**   | Direct to JN520 if traffic permits                            |                      |
+| **ISLAM2W**   | No direct routings permitted                                  |                      |
+| **KAROX2W**   | From JN276/JN254 to NIVBA if above 5000ft and traffic permits |                      |
+| **RIBAM2W**   | From JN276/JN254 to NIVBA if above 5000ft and traffic permits |                      |
+| **EGPOB3W**   | From JN276/JN254 to NIVBA if above 5000ft and traffic permits |                      |
+| **BOMOX3V**   | No direct routings permitted                                  |                      |
+| **MIGDA3V**   | No direct routings permitted                                  |                      |
+| **DATAP3V**   | No direct routings permitted                                  |                      |
+| **EGREP3V**   | No direct routings permitted                                  |                      |
+| **ISLAM3V**   | No direct routings permitted                                  |                      |
+| **KAROX3V**   | No direct routings permitted                                  |                      |
+| **RIBAM3V**   | No direct routings permitted                                  |                      |
+| **EGPOB3V**   | No direct routings permitted                                  |                      |
+
+<div className="center-align">
+  <p>*Table 5.9 - Standard Shortcuts - 34 Configuration*</p>
+</div>
+
+####    6.2.2.2 Sequencing/Horizontal Separation
+Approach should strive to transfer traffic with a minimum of **8-10** nautical miles in trail, and increasing.
+
+####    6.2.3 Speed Control
+For departing aircraft, speed control can be issued as needed, with a maximum speed of **280 to 300** knots.
+
+::::tip Higher Speed
+In Class C airspace below 10,000 feet, aircraft are required to maintain speeds of 250 knots or lower. If you wish to grant unrestricted climb and encourage a higher speed, you can communicate the following message:
+
+> **APP 1:** *"SVA123, High Speed Approved"*
+
+::::caution do note
+When assigning a speed greater than 250 knots to an aircraft below 10,000 feet in Class C airspace, you do not need to provide a specific "high speed" instruction. Simply state the speed that has been assigned.
+::::
+
+---
 
 ### 6.3 Handoff Procedures
-####    6.2.2 Arrivals
-####    6.2.3 Departures
+Handoffs should always be made between **2000 and 5000 feet** before reaching the assigned altitude.
 
+####    6.3.2 Arrivals
+
+| Entry Point: |                  **From:**                 |         **To:**         |         **Notes**        |
+|:------------:|:------------------------------------------:|:-----------------------:|:------------------------:|
+|   **MISAM**  | **_Jeddah Terminal Control East (CTR 2)_** | Jeddah Approach (APP 1) | CTR 1 when 2 is offline. |
+|   **VEMEM**  | **_Jeddah Terminal Control East (CTR 2)_** | Jeddah Approach (APP 1) | CTR 1 when 2 is offline. |
+|   **NOMDA**  | **_Jeddah Terminal Control West (CTR 1)_** | Jeddah Approach (APP 1) |                          |
+|   **MOVUL**  | **_Jeddah Terminal Control West (CTR 1)_** | Jeddah Approach (APP 1) |                          |
+|   **EGMEG**  | **_Jeddah Terminal Control West (CTR 1)_** | Jeddah Approach (APP 1) |                          |
+|   **BOSUT**  | **_Jeddah Terminal Control West (CTR 1)_** | Jeddah Approach (APP 1) |                          |
+<div className="center-align">
+  <p>*Table 4.2 - Handoff Procedure - Arrivals*</p>
+</div>
+
+####    6.3.3 Departures
+| Exit Point: |        **From:**        |                   **To:**                  |         **Notes**        |
+|:-----------:|:-----------------------:|:------------------------------------------:|:------------------------:|
+|  **EGREP**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control East (CTR 2)_** | CTR 1 when 2 is offline. |
+|  **ISLAM**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control East (CTR 2)_** | CTR 1 when 2 is offline. |
+|  **BOMOX**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control West (CTR 1)_** |                          |
+|  **MIGDA**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control West (CTR 1)_** |                          |
+|  **DATAP**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control West (CTR 1)_** |                          |
+|  **KAROX**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control West (CTR 1)_** |                          |
+|  **RIBAM**  | Jeddah Approach (APP 1) | **_Jeddah Terminal Control West (CTR 1)_** |                          |
+
+<div className="center-align">
+  <p>*Table 4.3 - Handoff Procedure - Departures*</p>
+</div>
 ---
 
 ## 7. Final Approach Monitering (OEJN_FMC_APP)
 
-Radar monitoring shall not be terminated until:
-a) visual separation is applied, provided procedures ensure that both radar controllers are
-advised whenever visual separation is applied; or
-b) the aircraft has landed, or in case of a missed approach, is at least 2 km (1.0 NM)
-beyond the departure end of the runway and adequate separation with any other traffic
-is established.
+The **Jeddah Final Monitoring Control (FMC)** is responsible for monitoring traffic when the 1000ft vertical separation is reduced. 
 
-Note.— There is no requirement to advise the aircraft that radar monitoring is terminated.
+FMC verifies that when the 1,000 ft vertical separation is decreased:
 
+* Aircraft do not enter the depicted No Transgression Zone (NTZ).
+* The appropriate minimum longitudinal separation between aircraft on the same ILS localizer course is preserved.
+ 
+ ### 7.1 Termination of Radar Monitering
+**Radar monitoring should not be terminated until:**
 
-separate radar controllers monitor the approaches to each runway and ensure that when
-the 300 m (1 000 ft) vertical separation is reduced:
-1) aircraft do not penetrate the depicted NTZ; and
-2) the applicable minimum longitudinal separation between aircraft on the same ILS
-localizer course or MLS final approach track is maintained;
+* Visual separation is implemented, ensuring that both radar controllers are informed whenever visual separation is applied; or
+* The aircraft has landed, or in the event of a missed approach, is a minimum of **1.0 NM** beyond the departure end of the runway and maintains sufficient separation from any other traffic.
+
+::::caution do note
+There is no requirement to advise the aircraft that radar monitoring is terminated.
+::::
+
+### 7.2 Infringement of NTZ
+When an aircraft is seen deviating from the ILS localizer course towards the No Transgression Zone (NTZ) and remains in the Normal Operating Zone (NOZ), ATC will instruct the aircraft to promptly return to the correct ILS localizer course using the following phraseology:
+
+> **FMC:** *“OBSERVING YOU ARE LEFT (or RIGHT) OF THE LOCALIZER (or FINAL APPROACH COURSE), TURN RIGHT (or LEFT)
+IMMEDIATELY AND REJOIN THE LOCALIZER”*
+
+### 7.2.1 Break-Out Maneuver
+
+When FMC observes an aircraft penetrating or about to penetrate the No Transgression Zone (NTZ), they will first instruct the aircraft on the adjacent ILS localizer course to adjust their course to avoid the deviating aircraft, using the following phraseology:
+
+> **FMC:** *“Break-Out Alert, (callsign), turn (Left or Right), Immediately Heading (3 digits), Climb (or descend) to (altitude)”*
+
+::::danger do note
+No heading instruction will be issued when aircraft is below 400 feet.
+::::
+
+---
+
+## 8. Holding Procedures
+
+There are five primary published holding stacks located within the Jeddah Terminal Maneuvering Area (TMA). These stacks are used for holding arriving aircraft or as part of the missed approach procedures for certain instrument approaches.
+
+::::caution use with caution
+In the Jeddah Terminal Maneuvering Area (TMA), holdings should be considered the final option for sequencing aircraft. Radar vectors, speed adjustments, direct routing, and using PTM are significantly more efficient methods for managing aircraft traffic flow.
+::::
+
+### 8.1 Holding Stacks in the Jeddah TMA
+
+| **Holding Fix** |  **Radial/DME** |                            **Use**                            |
+|:---------------:|:---------------:|:-------------------------------------------------------------:|
+|    **IMDAP**    | JDW R-053/25DME |           RNAV STAR RWYs 34C/34L/34R and 16C/16L/16R          |
+|    **IMDAP**    | JDW R-053/25DME | Missed approach holding for RWY34R & RWY34C & RWY16L & RWY16C |
+|    **ULULU**    | JDW R-208/20DME |           RNAV STAR RWYs 34C/34L/34R and 16C/16L/16R          |
+|    **ULULU**    | JDW R-208/20DME |               Missed approach holding for RWY16R              |
+|    **RADKI**    |  JDWR-302/18DME |        Missed approach holding for ILS Z or LOC RWY 34L       |
+
+<div className="center-align">
+  <p>*Table 5.6 - Published Holding Stacks*</p>
+</div>
+
+<div className="center-align">
+![Loading](imgs/app-hold.png)
+</div>
+<div className="center-align">
+  <p>*Figure 5.6 - Published Holding Stacks*</p>
+</div>
